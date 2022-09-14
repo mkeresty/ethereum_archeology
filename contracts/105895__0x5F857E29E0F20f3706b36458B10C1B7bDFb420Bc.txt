@@ -1,0 +1,18 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - removeMember(address _targetMember)
+#  - setOwner(address _new)
+#  - untag(string _param1)
+#  - checkOutTag(string _param1)
+#  - commit(bytes _param1, string _param2)
+#  - checkOut(int256 _param1)
+#  - findTag(string _param1)
+#  - owner()
+#  - getMembers()
+#  - tag(uint256 _param1, string _param2)
+#  - unknownc7c4a615(?)
+#  - addMember(address _target)
+#  - _fallback()
+#  All the rest is below.
+#

@@ -1,0 +1,10 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown428b5ca8(?)
+#  - unknown69021a5f(?)
+#  - unknowna29fc1e6(?)
+#  - setKey(string _key)
+#  - _fallback()
+#  All the rest is below.
+#

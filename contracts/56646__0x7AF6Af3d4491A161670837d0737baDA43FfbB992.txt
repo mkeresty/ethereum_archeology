@@ -1,0 +1,19 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown2168129d(?)
+#  - balances(address _param1)
+#  - die()
+#  - tickets(uint256 _param1)
+#  - random()
+#  - payout()
+#  - buyTicket(uint256 _betPrice)
+#  - unknown6ac2da19(?)
+#  - unknown7c1c1716(?)
+#  - lastBlock()
+#  - balance()
+#  - unknownde9702a4(?)
+#  - payoutReady()
+#  - _fallback()
+#  All the rest is below.
+#

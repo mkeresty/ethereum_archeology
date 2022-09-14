@@ -1,0 +1,23 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - tipLockCheck(bytes32 _param1)
+#  - lockAccount(bytes32 _param1)
+#  - unlockAccount()
+#  - userCheck(bytes32 _param1)
+#  - getCoinWallet(bytes4 _param1)
+#  - setUserAccount(bytes32 _param1, address _param2)
+#  - unlockTip()
+#  - sendCoin(bytes4 _param1, bytes32 _param2, bytes32 _param3, uint256 _param4)
+#  - getTotalBalance(bytes4 _param1)
+#  - accountLockCheck(bytes32 _param1)
+#  - getUserAccount(bytes32 _param1)
+#  - addUser(bytes32 _param1)
+#  - withdrawCoin(bytes4 _param1, bytes32 _param2, uint256 _param3)
+#  - getConfig()
+#  - getUsersContract()
+#  - lockTip(bytes32 _param1)
+#  - getCoinBalance(bytes4 _param1, bytes32 _param2)
+#  - _fallback()
+#  All the rest is below.
+#

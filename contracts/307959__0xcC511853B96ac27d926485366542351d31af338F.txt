@@ -1,0 +1,12 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown3c450d2d(?)
+#  - kill()
+#  - operator()
+#  - unknowna4bc0019(?)
+#  - unknownaf0b77c6(?)
+#  - getAddress(string _key)
+#  - _fallback()
+#  All the rest is below.
+#

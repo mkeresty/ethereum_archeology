@@ -1,0 +1,8 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - setHash(string _param1)
+#  - getHash()
+#  - _fallback()
+#  All the rest is below.
+#

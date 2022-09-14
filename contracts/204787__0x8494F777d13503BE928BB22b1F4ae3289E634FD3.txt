@@ -1,0 +1,14 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - disapprove(address _param1)
+#  - isApproved(address _user)
+#  - sendCoinFrom(address _param1, uint256 _param2, address _param3)
+#  - approveOnce(address _param1, uint256 _param2)
+#  - coinBalanceOf(address _param1)
+#  - sendCoin(uint256 _param1, address _param2)
+#  - coinBalance()
+#  - approve(address _guy)
+#  - _fallback()
+#  All the rest is below.
+#

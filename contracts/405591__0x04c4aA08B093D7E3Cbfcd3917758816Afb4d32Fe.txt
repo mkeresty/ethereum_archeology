@@ -1,0 +1,16 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown0f2fbeec(?)
+#  - unknown12d3b72a(?)
+#  - unknown4b4ae1b6(?)
+#  - unknown5409b77a(?)
+#  - unknown71164d26(?)
+#  - addString(string _param1)
+#  - selfDestruct()
+#  - unknownaaabd6b0(?)
+#  - unknownb8055bd2(?)
+#  - unknownbe60040e(?)
+#  - _fallback()
+#  All the rest is below.
+#

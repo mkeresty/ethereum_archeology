@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - add(address _address)
+#  - claim()
+#  - people(uint256 _param1)
+#  - _fallback()
+#  All the rest is below.
+#

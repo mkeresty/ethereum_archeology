@@ -1,0 +1,18 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown006d6cae(?)
+#  - unknown17a7a2c4(?)
+#  - kill()
+#  - setFee(uint256 _feeRate)
+#  - unknown72c4b21a(?)
+#  - requests(uint256 _param1)
+#  - owner()
+#  - recoverFunds()
+#  - unknownbef53825(?)
+#  - unknownd265d7db(?)
+#  - fee()
+#  - empty()
+#  - _fallback()
+#  All the rest is below.
+#

@@ -1,0 +1,10 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown02110d25(?)
+#  - finalize(address _param1, uint256 _param2)
+#  - balances(address _param1)
+#  - get()
+#  - _fallback()
+#  All the rest is below.
+#

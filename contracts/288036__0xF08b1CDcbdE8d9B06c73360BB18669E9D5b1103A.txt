@@ -1,0 +1,10 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - set(string _nick)
+#  - set(uint256 _fee)
+#  - get()
+#  - getString()
+#  - _fallback()
+#  All the rest is below.
+#

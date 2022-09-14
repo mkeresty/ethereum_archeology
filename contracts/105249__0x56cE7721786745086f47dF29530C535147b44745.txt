@@ -1,0 +1,10 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - delegate(address _to)
+#  - winningProposal()
+#  - giveRightToVote(address _voter)
+#  - vote(uint8 _proposal)
+#  - _fallback()
+#  All the rest is below.
+#

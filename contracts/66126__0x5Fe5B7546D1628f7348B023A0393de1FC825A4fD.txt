@@ -1,0 +1,13 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - casinoBalance()
+#  - kill()
+#  - casinoWithdraw(uint256 _amount)
+#  - betOnNumber(uint256 _numberChosen)
+#  - casinoDeposit()
+#  - betOnColor(uint256 _color)
+#  - welcome()
+#  - _fallback()
+#  All the rest is below.
+#

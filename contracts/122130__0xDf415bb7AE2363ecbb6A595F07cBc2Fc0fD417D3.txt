@@ -1,0 +1,18 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - getTickets(uint256 _index)
+#  - getPot(uint256 _roundID)
+#  - getIsCashed(uint256 _param1, uint256 _param2)
+#  - getSubpotsCount(uint256 _param1)
+#  - calculateWinner(uint256 _param1, uint256 _param2)
+#  - getRoundIndex()
+#  - getHashOfBlock(uint256 _param1)
+#  - getBlocksPerRound()
+#  - getTicketPrice()
+#  - getSubpot(uint256 _param1)
+#  - cash(uint256 _param1, uint256 _param2)
+#  - getDecisionBlockNumber(uint256 _param1, uint256 _param2)
+#  - _fallback()
+#  All the rest is below.
+#

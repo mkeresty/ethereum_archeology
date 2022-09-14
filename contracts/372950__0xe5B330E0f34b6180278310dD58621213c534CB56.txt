@@ -1,0 +1,11 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - getOwnerAddress()
+#  - unknown145ef6e9(?)
+#  - unknown295795e2(?)
+#  - setOwnerAddress(address _param1)
+#  - kill()
+#  - _fallback()
+#  All the rest is below.
+#

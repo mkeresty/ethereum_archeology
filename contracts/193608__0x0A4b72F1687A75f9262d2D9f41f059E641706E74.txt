@@ -1,0 +1,15 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown4afdd0e7(?)
+#  - unknown4e4f8289(?)
+#  - withdraw(address _recipient)
+#  - unknownaa3f8cb7(?)
+#  - numDeposits()
+#  - getProfit(address _customer)
+#  - deposit()
+#  - lastProfit()
+#  - getBalance(address _currentInvestor)
+#  - _fallback()
+#  All the rest is below.
+#

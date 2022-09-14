@@ -1,0 +1,20 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - getElevations()
+#  - unknown54746dac(?)
+#  - unknown5c24b074(?)
+#  - unknown6266b514(?)
+#  - unknown6a864559(?)
+#  - editBlock(uint8 _param1, uint8 _param2, uint256 _param3, int8[5] _param4)
+#  - unknown959eac47(?)
+#  - getOwners()
+#  - unknowna5ffca0e(?)
+#  - unknowna713081c(?)
+#  - unknownc7dafc78(?)
+#  - unknownedffcd57(?)
+#  - unknownf25e675d(?)
+#  - getBlocks(uint8 _param1, uint8 _param2)
+#  - _fallback()
+#  All the rest is below.
+#

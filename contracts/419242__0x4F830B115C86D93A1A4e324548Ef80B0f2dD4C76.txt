@@ -1,0 +1,8 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - bytesToUInt(bytes32 _v)
+#  - uintToBytes(uint256 _i)
+#  - _fallback()
+#  All the rest is below.
+#

@@ -1,0 +1,11 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - mint(address _to, uint256 _amount)
+#  - unknown6b149d87(?)
+#  - send(address _target, uint256 _amount)
+#  - deposit()
+#  - getBalance(address _currentInvestor)
+#  - _fallback()
+#  All the rest is below.
+#

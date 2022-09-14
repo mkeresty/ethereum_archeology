@@ -1,0 +1,12 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown09e2d1a6(?)
+#  - unknown2f96dee6(?)
+#  - unknown3a722d0d(?)
+#  - kill()
+#  - getInfo()
+#  - getPrizePool()
+#  - _fallback()
+#  All the rest is below.
+#

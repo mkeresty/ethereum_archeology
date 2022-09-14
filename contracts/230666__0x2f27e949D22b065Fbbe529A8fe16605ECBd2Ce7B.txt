@@ -1,0 +1,18 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - deadline()
+#  - unknown3166f383(?)
+#  - beneficiary()
+#  - unknown3e673ba7(?)
+#  - halt()
+#  - fundingGoal()
+#  - amountRaised()
+#  - gracePeriod()
+#  - claimFunds()
+#  - claimRefund()
+#  - unknownd3d92e96(?)
+#  - unknownfbaad3b0(?)
+#  - _fallback()
+#  All the rest is below.
+#

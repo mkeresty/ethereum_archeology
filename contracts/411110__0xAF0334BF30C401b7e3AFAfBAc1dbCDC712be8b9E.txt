@@ -1,0 +1,11 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - getWinnerUrl(uint256 _param1)
+#  - initialize(uint256 _param1, uint256 _param2, uint256 _param3, uint256 _param4, uint256 _param5, uint256 _param6)
+#  - getWinnerAddress(uint256 _param1)
+#  - acceptAuctionResult(address _param1, uint256 _param2, string _param3)
+#  - getAuctionAddress(uint256 _param1)
+#  - _fallback()
+#  All the rest is below.
+#

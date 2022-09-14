@@ -1,0 +1,13 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - grid(uint256 _param1, uint256 _param2)
+#  - wager()
+#  - turn()
+#  - unknown960edffb(?)
+#  - joinGame()
+#  - players(uint256 _param1)
+#  - unknownf7c1f50a(?)
+#  - _fallback()
+#  All the rest is below.
+#

@@ -1,0 +1,15 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown0f8ebe27(?)
+#  - price(uint256 _time)
+#  - unknown4c773795(?)
+#  - getPrice(string _datasource)
+#  - unknowna4c8a1c1(?)
+#  - query(uint256 _timestamp, string _datasource, string _arg)
+#  - unknownb9c7a186(?)
+#  - unknownca2f85ff(?)
+#  - setPrice(uint256 _i, uint256 _j)
+#  - _fallback()
+#  All the rest is below.
+#

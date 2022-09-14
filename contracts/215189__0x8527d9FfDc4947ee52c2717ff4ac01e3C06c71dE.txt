@@ -1,0 +1,13 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - totalShares()
+#  - threshold()
+#  - setThreshold(uint256 _threshold)
+#  - changeOwner(address _newOwnerAddr)
+#  - shareholders(uint256 _param1)
+#  - shares(address _param1)
+#  - unknownebf6a0fa(?)
+#  - _fallback()
+#  All the rest is below.
+#

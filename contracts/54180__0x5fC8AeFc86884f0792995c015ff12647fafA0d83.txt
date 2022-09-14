@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - withdraw_funds()
+#  - balanceOf(address _owner)
+#  - getNumInvestors()
+#  - _fallback()
+#  All the rest is below.
+#

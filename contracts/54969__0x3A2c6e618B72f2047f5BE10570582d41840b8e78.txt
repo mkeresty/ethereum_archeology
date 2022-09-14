@@ -1,0 +1,14 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown0a936fe5(?)
+#  - unknown15853113(?)
+#  - unknown39bfc4a1(?)
+#  - unknown6939cd97(?)
+#  - nonce()
+#  - unknownc36948b5(?)
+#  - sendMessage(address _recipient, string _message)
+#  - unknownfe1e3eca(?)
+#  - _fallback()
+#  All the rest is below.
+#

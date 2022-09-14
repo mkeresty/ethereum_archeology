@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown09e2d1a6(?)
+#  - getInfo(uint256 _ninjaid)
+#  - kill()
+#  - _fallback()
+#  All the rest is below.
+#

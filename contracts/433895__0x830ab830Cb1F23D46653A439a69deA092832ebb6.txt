@@ -1,0 +1,10 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - __callback(bytes32 _oraclizeId, string _result)
+#  - kill()
+#  - unknown6a67498e(?)
+#  - deposit()
+#  - _fallback()
+#  All the rest is below.
+#

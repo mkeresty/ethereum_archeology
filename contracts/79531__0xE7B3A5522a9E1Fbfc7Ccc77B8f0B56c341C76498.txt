@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - lock(uint256 _numberOfYears, uint256 _tokens)
+#  - unlock(uint256 _value)
+#  - deposits(uint256 _param1)
+#  - _fallback()
+#  All the rest is below.
+#

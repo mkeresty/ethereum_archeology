@@ -1,0 +1,25 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - setLocked()
+#  - getWhatHappened()
+#  - getLocked()
+#  - kill()
+#  - getUint8FromByte32(bytes32 _param1, uint8 _param2)
+#  - setStatus(uint8 _param1, uint8 _param2, string _param3)
+#  - unknown6266b514(?)
+#  - unknown6a864559(?)
+#  - unknown7f40458a(?)
+#  - getLastFarm(uint8 _param1, uint8 _param2)
+#  - editBlock(uint8 _param1, uint8 _param2, uint256 _param3, int8[5] _param4)
+#  - setName(uint8 _param1, uint8 _param2, string _param3)
+#  - unknown959eac47(?)
+#  - unknowna4741f48(?)
+#  - getName(uint8 _param1, uint8 _param2)
+#  - unknownc7dafc78(?)
+#  - getStatus(uint8 _param1, uint8 _param2)
+#  - getOwner(uint8 _param1, uint8 _param2)
+#  - getBlocks(uint8 _param1, uint8 _param2)
+#  - _fallback()
+#  All the rest is below.
+#

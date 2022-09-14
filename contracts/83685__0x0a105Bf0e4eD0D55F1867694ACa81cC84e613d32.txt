@@ -1,0 +1,10 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - kill()
+#  - mint(uint256 _wad)
+#  - send(address _target, uint256 _amount)
+#  - balance(address _param1)
+#  - _fallback()
+#  All the rest is below.
+#

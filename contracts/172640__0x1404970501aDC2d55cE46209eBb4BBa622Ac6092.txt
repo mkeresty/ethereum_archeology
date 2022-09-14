@@ -1,0 +1,12 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - kill()
+#  - founder()
+#  - unknown9c65707c(?)
+#  - numAssets()
+#  - assets(uint256 _param1)
+#  - unknowned7aa47d(?)
+#  - _fallback()
+#  All the rest is below.
+#

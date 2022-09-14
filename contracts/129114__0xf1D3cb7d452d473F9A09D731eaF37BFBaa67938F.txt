@@ -1,0 +1,8 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - set(string _nick)
+#  - get()
+#  - _fallback()
+#  All the rest is below.
+#

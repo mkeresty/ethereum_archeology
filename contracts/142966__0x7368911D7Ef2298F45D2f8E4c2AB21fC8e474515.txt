@@ -1,0 +1,17 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - checkGoalReached()
+#  - status()
+#  - deadline()
+#  - beneficiary()
+#  - kill()
+#  - totalBids()
+#  - unknowna73ef121(?)
+#  - bidders(uint256 _param1)
+#  - highestBid()
+#  - unknowndb2e1eed(?)
+#  - bidder()
+#  - _fallback()
+#  All the rest is below.
+#

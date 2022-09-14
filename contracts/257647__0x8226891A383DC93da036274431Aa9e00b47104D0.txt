@@ -1,0 +1,13 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - register()
+#  - unknown437600bc(?)
+#  - unknown444bdb1b(?)
+#  - get()
+#  - unknown71ad7221(?)
+#  - unknown854ba99d(?)
+#  - unknowna32da9d1(?)
+#  - _fallback()
+#  All the rest is below.
+#

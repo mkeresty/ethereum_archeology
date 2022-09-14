@@ -1,0 +1,13 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - name()
+#  - issuer()
+#  - unknown7501c833(?)
+#  - changeIssuer(address _to)
+#  - issueCoin(address _to, uint256 _amount)
+#  - send(address _target, uint256 _amount)
+#  - balance(address _param1)
+#  - _fallback()
+#  All the rest is below.
+#

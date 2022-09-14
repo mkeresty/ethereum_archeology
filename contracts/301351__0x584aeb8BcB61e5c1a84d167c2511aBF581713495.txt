@@ -1,0 +1,13 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - mint()
+#  - makeAdmin(address _param1)
+#  - unknown5ebb56d3(?)
+#  - coinBalanceOf(address _param1)
+#  - sendCoin(uint256 _param1, address _param2)
+#  - unknownd1d547de(?)
+#  - coinBalance()
+#  - _fallback()
+#  All the rest is below.
+#

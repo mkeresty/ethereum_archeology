@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - checkGoalReached(uint256 _campaignID)
+#  - contribute(uint256 _amount)
+#  - newCampaign(address _param1, uint256 _param2)
+#  - _fallback()
+#  All the rest is below.
+#

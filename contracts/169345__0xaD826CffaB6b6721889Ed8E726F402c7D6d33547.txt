@@ -1,0 +1,21 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - getContractAddress()
+#  - kill()
+#  - getContractBalance()
+#  - getCurrentBlockNumber()
+#  - getTxGasprice()
+#  - getBlockTimestamp()
+#  - getMsgSender()
+#  - getCurrentGaslimit()
+#  - getMsgGas()
+#  - getCurrentDifficulty()
+#  - getMsgValue()
+#  - creatorBalanceChecker()
+#  - getTxOrigin()
+#  - getMsgData()
+#  - getCurrentMinerAddress()
+#  - _fallback()
+#  All the rest is below.
+#

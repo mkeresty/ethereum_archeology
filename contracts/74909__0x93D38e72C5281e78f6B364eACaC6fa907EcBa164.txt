@@ -1,0 +1,19 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown25416ecd(?)
+#  - refund(uint256 _proposalId)
+#  - unknown2fe9cc5b(?)
+#  - unknown56fbf54f(?)
+#  - unknown57e3d458(?)
+#  - unknown690167fc(?)
+#  - bonus()
+#  - unknown79d5f12c(?)
+#  - unknown93b0719d(?)
+#  - multiply(uint256 _a)
+#  - vote(uint256 _proposalID, bool _supportsProposal)
+#  - buy(uint256 _againCount)
+#  - unknownf40e4f6f(?)
+#  - _fallback()
+#  All the rest is below.
+#

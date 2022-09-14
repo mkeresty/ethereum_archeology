@@ -1,0 +1,8 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - test(uint256 _x)
+#  - unknown5b5aa914(?)
+#  - _fallback()
+#  All the rest is below.
+#

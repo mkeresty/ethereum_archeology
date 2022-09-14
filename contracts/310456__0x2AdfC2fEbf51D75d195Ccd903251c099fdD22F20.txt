@@ -1,0 +1,25 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown11bc5478(?)
+#  - numTickets()
+#  - unknown43743d93(?)
+#  - getTimeElapsed()
+#  - tickets(uint256 _param1)
+#  - unknown5c0ecfad(?)
+#  - unknown5d80c278(?)
+#  - unknown602a6ca1(?)
+#  - lastBlock()
+#  - numWinners()
+#  - winners(uint256 _param1)
+#  - clientSeed()
+#  - recoverLostFunds()
+#  - unknowna5e01f37(?)
+#  - unknownf000c309(?)
+#  - adminWithdraw()
+#  - unknownf56f48f2(?)
+#  - unknownf6f0b074(?)
+#  - unknownf961ec87(?)
+#  - _fallback()
+#  All the rest is below.
+#

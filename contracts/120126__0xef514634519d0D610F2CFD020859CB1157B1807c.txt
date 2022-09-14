@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - info()
+#  - kill()
+#  - players(uint256 _param1)
+#  - _fallback()
+#  All the rest is below.
+#

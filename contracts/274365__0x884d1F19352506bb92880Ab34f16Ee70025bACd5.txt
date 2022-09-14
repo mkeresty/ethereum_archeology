@@ -1,0 +1,10 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - times(uint256 _param1)
+#  - unknown95270080(?)
+#  - unknownb518d5e3(?)
+#  - unknownd23aa460(?)
+#  - _fallback()
+#  All the rest is below.
+#

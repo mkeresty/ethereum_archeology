@@ -1,0 +1,17 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - checkGoalReached()
+#  - unknown17a5410b(?)
+#  - bid()
+#  - beneficiary()
+#  - unknown4a707247(?)
+#  - tokenReward()
+#  - unknown7121809a(?)
+#  - fundingGoal()
+#  - amountRaised()
+#  - token_price()
+#  - funders(uint256 _param1)
+#  - _fallback()
+#  All the rest is below.
+#

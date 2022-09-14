@@ -1,0 +1,13 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - removeMember(address _targetMember)
+#  - owner()
+#  - numTransactions()
+#  - transactions(uint256 _param1)
+#  - getMembers()
+#  - addMember(address _target)
+#  - addTransaction(bytes _param1)
+#  - _fallback()
+#  All the rest is below.
+#

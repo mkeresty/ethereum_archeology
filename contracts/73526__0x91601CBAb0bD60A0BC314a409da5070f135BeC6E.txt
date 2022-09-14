@@ -1,0 +1,8 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown8abb9845(?)
+#  - getRemainingTime()
+#  - _fallback()
+#  All the rest is below.
+#

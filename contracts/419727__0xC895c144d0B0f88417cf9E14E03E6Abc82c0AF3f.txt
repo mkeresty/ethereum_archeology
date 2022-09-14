@@ -1,0 +1,24 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown068e3ef1(?)
+#  - unknown079ed96f(?)
+#  - unknown317c152d(?)
+#  - unknown332a06ac(?)
+#  - unknown3458e13e(?)
+#  - unknown38f4c9eb(?)
+#  - unknown54e37911(?)
+#  - unknown5748147e(?)
+#  - unknown67f146ce(?)
+#  - AddedToGeneration(address _param1, uint256 _param2)
+#  - unknown83973eb3(?)
+#  - unknown8f00e61a(?)
+#  - unknown968f7720(?)
+#  - unknowna163a325(?)
+#  - unknownb6cbfdb2(?)
+#  - unknownc75e8f88(?)
+#  - unknowndd8abb6c(?)
+#  - RemovedFromGeneration(address _param1, uint256 _param2)
+#  - _fallback()
+#  All the rest is below.
+#

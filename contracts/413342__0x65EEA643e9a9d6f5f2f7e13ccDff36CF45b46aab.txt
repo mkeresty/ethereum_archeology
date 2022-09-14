@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - length(string _param1)
+#  - unknownccef3ba2(?)
+#  - unknownf1e08b21(?)
+#  - _fallback()
+#  All the rest is below.
+#

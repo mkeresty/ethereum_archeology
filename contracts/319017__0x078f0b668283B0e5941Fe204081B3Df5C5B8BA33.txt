@@ -1,0 +1,23 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - getNodeLeftChild(bytes32 _nodeId)
+#  - getPreviousNode(bytes32 _nodeId)
+#  - getNodeId(bytes32 _param1, bytes32 _param2)
+#  - getNodeValue(bytes32 _nodeId)
+#  - getNodeRightChild(bytes32 _nodeId)
+#  - exists(bytes32 _indexId, bytes32 _id)
+#  - insert(bytes32 _indexName, bytes32 _id, int256 _value)
+#  - getNodeParent(bytes32 _nodeId)
+#  - getIndexName(bytes32 _indexId)
+#  - getNodeIndexId(bytes32 _nodeId)
+#  - getNextNode(bytes32 _nodeId)
+#  - remove(bytes32 _indexName, bytes32 _id)
+#  - getNodeHeight(bytes32 _nodeId)
+#  - getNodeId(bytes32 _nodeId)
+#  - getIndexRoot(bytes32 _indexId)
+#  - getIndexId(address _param1, bytes32 _param2)
+#  - query(bytes32 _indexId, bytes2 _operator, int256 _value)
+#  - _fallback()
+#  All the rest is below.
+#

@@ -1,0 +1,16 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - supply()
+#  - unknown073eb4ed(?)
+#  - balances(address _param1)
+#  - unknown30dc9cee(?)
+#  - unknown3fbe4a6b(?)
+#  - unknown604bcb3b(?)
+#  - unknown6f3e2a7c(?)
+#  - unknowna2d3f9bb(?)
+#  - unknownba850a63(?)
+#  - unknownf427bd46(?)
+#  - _fallback()
+#  All the rest is below.
+#

@@ -1,0 +1,8 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - transfer(address _to, uint256 _value)
+#  - balance(address _param1)
+#  - _fallback()
+#  All the rest is below.
+#

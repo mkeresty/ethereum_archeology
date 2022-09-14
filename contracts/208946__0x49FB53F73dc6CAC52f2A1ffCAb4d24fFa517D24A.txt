@@ -1,0 +1,15 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - elapsed()
+#  - remaining()
+#  - lastBlock()
+#  - unknown8a6a952a(?)
+#  - blocks()
+#  - price()
+#  - winners(uint256 _param1)
+#  - totalWinners()
+#  - lastPlayer()
+#  - _fallback()
+#  All the rest is below.
+#

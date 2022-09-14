@@ -1,0 +1,16 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - removeMinter(address _minter)
+#  - unknown34af2ade(?)
+#  - unknown543ad305(?)
+#  - sendCoinFrom(address _param1, uint256 _param2, address _param3)
+#  - addMinter(address _minter)
+#  - changeOwner(address _newOwnerAddr)
+#  - coinBalanceOf(address _param1)
+#  - sendCoin(uint256 _param1, address _param2)
+#  - coinBalance()
+#  - numMinters()
+#  - _fallback()
+#  All the rest is below.
+#

@@ -1,0 +1,17 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - chairperson()
+#  - numProposals()
+#  - delegate(address _to)
+#  - winningProposal()
+#  - unknown861b7d75(?)
+#  - giveRightToVote(address _voter)
+#  - voted(address _param1)
+#  - vote(uint8 _proposal)
+#  - unknownbdeba8bc(?)
+#  - unknownbffe3486(?)
+#  - votes(address _param1)
+#  - _fallback()
+#  All the rest is below.
+#

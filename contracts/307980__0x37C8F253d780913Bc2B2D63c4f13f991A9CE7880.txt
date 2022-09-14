@@ -1,0 +1,21 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown0b8183c7(?)
+#  - unknown2c4b8aa5(?)
+#  - unknown39846902(?)
+#  - kill()
+#  - unknown44021ad7(?)
+#  - operator()
+#  - unknown598bf048(?)
+#  - unknown5d75135a(?)
+#  - unknown73a82b5f(?)
+#  - unknown86c0e67c(?)
+#  - unknownc0a93615(?)
+#  - unknownc0e9c1fd(?)
+#  - unknownc9442dac(?)
+#  - unknownd82ca226(?)
+#  - unknownfdc6258a(?)
+#  - _fallback()
+#  All the rest is below.
+#

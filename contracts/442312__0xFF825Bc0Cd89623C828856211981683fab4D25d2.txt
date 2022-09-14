@@ -1,0 +1,10 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - getVotes()
+#  - endPoll()
+#  - p()
+#  - vote(bytes32 _slate)
+#  - _fallback()
+#  All the rest is below.
+#

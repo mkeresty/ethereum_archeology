@@ -1,0 +1,21 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - getMsgDataBefore()
+#  - getContractCreationGas()
+#  - getContractCreationData()
+#  - kill()
+#  - unknown5d624c0d(?)
+#  - getContractCreationValue()
+#  - getMsgGasAfter()
+#  - getMsgGas()
+#  - getMsgValue()
+#  - getMsgValueAfter()
+#  - getMsgValueBefore()
+#  - getMsgDataAfter()
+#  - unknownbe69d48e(?)
+#  - getMsgData()
+#  - getMsgGasBefore()
+#  - _fallback()
+#  All the rest is below.
+#

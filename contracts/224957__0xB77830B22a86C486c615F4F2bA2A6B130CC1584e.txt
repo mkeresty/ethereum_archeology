@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - kill()
+#  - setGreeting(string _newgreeting)
+#  - greet()
+#  - _fallback()
+#  All the rest is below.
+#

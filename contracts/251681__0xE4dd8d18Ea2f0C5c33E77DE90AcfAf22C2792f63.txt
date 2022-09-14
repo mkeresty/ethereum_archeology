@@ -1,0 +1,14 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown187c5903(?)
+#  - balances(address _param1)
+#  - unknown444bdb1b(?)
+#  - unknown67c18aa1(?)
+#  - get()
+#  - investors(address _param1)
+#  - unknown89ac5d13(?)
+#  - invest()
+#  - _fallback()
+#  All the rest is below.
+#

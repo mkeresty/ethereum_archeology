@@ -1,0 +1,8 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - get(bytes32 _avatarHash)
+#  - set(bytes32 _param1, int256 _param2)
+#  - _fallback()
+#  All the rest is below.
+#

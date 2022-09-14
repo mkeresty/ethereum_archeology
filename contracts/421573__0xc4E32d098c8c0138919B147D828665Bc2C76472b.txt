@@ -1,0 +1,21 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - tipLockCheck(bytes32 _param1)
+#  - getBotContract()
+#  - lockAccount(bytes32 _param1)
+#  - userCheck(bytes32 _param1)
+#  - unlockAccount(bytes32 _param1)
+#  - setUserAccount(bytes32 _param1, address _param2)
+#  - getUserId(address _param1)
+#  - unlockTip(bytes32 _param1)
+#  - userAddressCheck(bytes32 _param1)
+#  - accountLockCheck(bytes32 _param1)
+#  - getUserAccount(bytes32 _param1)
+#  - getOwner()
+#  - addUser(bytes32 _param1)
+#  - getConfig()
+#  - lockTip(bytes32 _param1)
+#  - _fallback()
+#  All the rest is below.
+#

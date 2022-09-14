@@ -1,0 +1,17 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - tail()
+#  - transfer(address _addr)
+#  - length()
+#  - unknown284cc0a9(?)
+#  - set(address _param1, int256 _param2)
+#  - isOwner(address _owner)
+#  - kill()
+#  - isOwner()
+#  - head()
+#  - unknownca4fffad(?)
+#  - unknownd321411c(?)
+#  - _fallback()
+#  All the rest is below.
+#

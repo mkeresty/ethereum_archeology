@@ -1,0 +1,11 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - deleteBio(bytes3 _param1)
+#  - setBio(bytes3 _param1, bytes _param2)
+#  - getBio(address _param1, bytes3 _param2)
+#  - getBioLanguages(address _param1)
+#  - deleteAllBioTranslations()
+#  - _fallback()
+#  All the rest is below.
+#

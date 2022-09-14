@@ -1,0 +1,25 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - reCalc()
+#  - getBalance()
+#  - unknown13060833(?)
+#  - balances(address _param1)
+#  - die()
+#  - withdraw()
+#  - manager()
+#  - unknown4afdd0e7(?)
+#  - unknown5294010f(?)
+#  - getProfit()
+#  - getCumulativeProfit()
+#  - getDepositDelta()
+#  - feeRate()
+#  - numDeposits()
+#  - deposit()
+#  - unknownd9607482(?)
+#  - unknownea362937(?)
+#  - addresses(uint256 _param1)
+#  - deposits(address _param1)
+#  - _fallback()
+#  All the rest is below.
+#

@@ -1,0 +1,21 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - removeOwner(address _owner)
+#  - isOwner(address _owner)
+#  - m_numOwners()
+#  - resetSpentToday()
+#  - addOwner(address _owner)
+#  - m_required()
+#  - confirm(bytes32 _h)
+#  - setDailyLimit(uint256 _newLimit)
+#  - execute(address _to, uint256 _value, bytes _data)
+#  - revoke(bytes32 _operation)
+#  - changeRequirement(uint256 _newRequired)
+#  - hasConfirmed(bytes32 _operation, address _owner)
+#  - kill(address _to)
+#  - changeOwner(address _from, address _to)
+#  - m_dailyLimit()
+#  - _fallback()
+#  All the rest is below.
+#

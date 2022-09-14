@@ -1,0 +1,15 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown0470420d(?)
+#  - unknown0f758a53(?)
+#  - withdraw(uint256 _amount)
+#  - unknown7569ea89(?)
+#  - showBalance()
+#  - sendCoin(address _receiver, uint256 _amount)
+#  - unknowna93ae602(?)
+#  - coinBalanceOf(address _param1)
+#  - deposit()
+#  - _fallback()
+#  All the rest is below.
+#

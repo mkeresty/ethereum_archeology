@@ -1,0 +1,15 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - queuePayment(bytes _bitcoinAddress)
+#  - setAvailability(bool _available)
+#  - unknown3ecbc1b7(?)
+#  - kill()
+#  - isAvailable()
+#  - unknown86086ba8(?)
+#  - payments(uint256 _param1)
+#  - unknownc31bfcbb(?)
+#  - unknownf010264a(?)
+#  - _fallback()
+#  All the rest is below.
+#

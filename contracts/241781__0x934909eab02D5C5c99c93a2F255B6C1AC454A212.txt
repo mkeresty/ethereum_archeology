@@ -1,0 +1,11 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - kill()
+#  - unknown68744046(?)
+#  - getTitle(uint256 _param1)
+#  - history(uint256 _param1)
+#  - unknownf60886b5(?)
+#  - _fallback()
+#  All the rest is below.
+#

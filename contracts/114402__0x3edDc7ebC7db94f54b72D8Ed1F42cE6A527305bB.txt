@@ -1,0 +1,13 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown0ecc3912(?)
+#  - unknown5479f98b(?)
+#  - coins(address _param1)
+#  - sendCoin(address _receiver, uint256 _amount)
+#  - setInfo(string _name)
+#  - coinBalanceOf(address _param1)
+#  - coinBalance()
+#  - _fallback()
+#  All the rest is below.
+#

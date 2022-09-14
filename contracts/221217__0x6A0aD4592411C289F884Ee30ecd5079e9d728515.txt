@@ -1,0 +1,7 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - send(address _param1, bytes _param2)
+#  - _fallback()
+#  All the rest is below.
+#

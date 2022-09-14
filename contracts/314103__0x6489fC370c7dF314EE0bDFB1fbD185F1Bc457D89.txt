@@ -1,0 +1,14 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - getElevations()
+#  - unknown1a0cda6f(?)
+#  - setOwner(uint8 _param1, uint8 _param2, address _param3)
+#  - unknowna0ad10a6(?)
+#  - getOwners()
+#  - unknowna364c21f(?)
+#  - getPrices()
+#  - unknownd810612b(?)
+#  - _fallback()
+#  All the rest is below.
+#

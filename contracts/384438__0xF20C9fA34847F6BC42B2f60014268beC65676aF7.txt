@@ -1,0 +1,8 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - blockHexCoordsValid(int8 _param1, int8 _param2)
+#  - getUint8FromByte32(bytes32 _param1, uint8 _param2)
+#  - _fallback()
+#  All the rest is below.
+#

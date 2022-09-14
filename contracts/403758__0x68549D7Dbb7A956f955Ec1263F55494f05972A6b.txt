@@ -1,0 +1,11 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - getElevations()
+#  - setLocked()
+#  - getLocked()
+#  - getElevation(uint8 _param1, uint8 _param2)
+#  - unknown57f10d71(?)
+#  - _fallback()
+#  All the rest is below.
+#

@@ -1,0 +1,13 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - withdraw()
+#  - unknown4c773795(?)
+#  - getPrice(string _datasource)
+#  - withdrawAll()
+#  - unknowna4c8a1c1(?)
+#  - query(uint256 _timestamp, string _datasource, string _arg)
+#  - getBalance(address _currentInvestor)
+#  - _fallback()
+#  All the rest is below.
+#

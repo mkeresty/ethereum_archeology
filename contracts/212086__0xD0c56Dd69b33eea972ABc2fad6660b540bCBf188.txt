@@ -1,0 +1,10 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - kill()
+#  - set(string _nick)
+#  - get()
+#  - unknownaab27ef7(?)
+#  - _fallback()
+#  All the rest is below.
+#

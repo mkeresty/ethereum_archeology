@@ -1,0 +1,11 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - test3()
+#  - test5()
+#  - test2()
+#  - test1()
+#  - test4()
+#  - _fallback()
+#  All the rest is below.
+#

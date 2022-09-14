@@ -1,0 +1,18 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown05424669(?)
+#  - getWinningOutcome(uint256 _param1)
+#  - unknown3033413b(?)
+#  - value()
+#  - unknown5d33a27f(?)
+#  - unknown747a0c3a(?)
+#  - unknown74de1218(?)
+#  - owner()
+#  - unknown996f7d3a(?)
+#  - unknownaef52a2c(?)
+#  - unknownc2a4dc69(?)
+#  - unknownd357cada(?)
+#  - _fallback()
+#  All the rest is below.
+#

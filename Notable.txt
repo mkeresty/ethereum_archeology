@@ -1,0 +1,68 @@
+Snake, Head, Game???
+    155691__0x2c62C7B5fD245fA08Cb8bd2fFF4417Eb3EFE2AaE
+
+Very advanced for the time
+    172640__0x1404970501aDC2d55cE46209eBb4BBa622Ac6092
+
+From same guy that made smartponzi
+    https://etherscan.io/address/0x46E1E72a2a9D0f724ADc17Dc6B2E1CF1f8c3d86F#code
+
+first sendCoin contract
+    0x8374f5CC22eDA52e960D9558fb48DD4b7946609a
+
+has supply function
+    https://etherscan.io/address/0xCb6dc6E7bED090c0b22c90Eb5c10A7B8B97C9E71#code
+
+has supply function 
+    https://etherscan.io/address/0xe4cb62478f8931e479F18ce5dc25a8b196198317#code
+
+same^
+    196740__0x3EC9Fbcee0b72472ef05aE3ed4960Cb41eC02634
+
+software function
+    https://etherscan.io/address/0x7253aeb89175bebba810a48d491ccbe5f030ee3b/advanced
+    https://etherscan.io/address/0x710690d588c6782c8af2e06dd1a5748ca6ba02ae/advanced
+
+adv coinbalance of
+    https://etherscan.io/bytecode-decompiler?a=0x8494F777d13503BE928BB22b1F4ae3289E634FD3
+
+Player  
+    https://etherscan.io/bytecode-decompiler?a=0x7D692B829Cb5a81B9e17066504143Fc1B75e0c15
+
+redeem
+    https://etherscan.io/address/0x6A0aD4592411C289F884Ee30ecd5079e9d728515
+
+transfer
+    https://etherscan.io/address/0x17c7D136bDfC4371f989076bB3842be2e73C3Ec1
+
+getAvatar
+    https://etherscan.io/address/0xcdb8b6ef0530da348bfae0a49562d606632fd345
+    https://etherscan.io/address/0x5dc2e401e29ea16e51ebcecaef129c15fed5a5e8
+
+radcoin
+    274463__0xfEBFF5500ec9068b79beD2FaC16A09e0465cD38C
+
+withdraw
+    0x6546b3B4D3BE6bb26E32977061A2b1336619c5f4
+
+token _id
+    285954__0xd3740542c91aF53ec6F62A0b31EC252Cdd323Cc6
+
+buy sell message
+    https://etherscan.io/address/0x8904d972DEBED95F515B409C51e2424cBd2c5C11
+
+recoverLostFunds 50 eth
+    https://etherscan.io/address/0x2AdfC2fEbf51D75d195Ccd903251c099fdD22F20
+
+USDDOWNLOADPRICE 
+    https://etherscan.io/address/0xc7696b27830Dd8AA4823A1cba8440C27C36adeC4#readContract
+
+ipfs hash
+    https://etherscan.io/address/0xC10D28a2F4063D24C0b0Bb3ab1D4F076Ac113787#readCustomContract
+
+enterPool
+    https://etherscan.io/address/0x30c9e568f133ADce1F1eA91E189613223fc461B9
+    1.5 eth
+
+
+

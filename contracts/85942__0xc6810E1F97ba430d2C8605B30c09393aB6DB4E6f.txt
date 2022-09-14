@@ -1,0 +1,10 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - removeMember(address _targetMember)
+#  - kill()
+#  - checkMembership(address _param1)
+#  - addMember(address _target)
+#  - _fallback()
+#  All the rest is below.
+#

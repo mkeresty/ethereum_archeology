@@ -1,0 +1,7 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknowncd41ade7(?)
+#  - _fallback()
+#  All the rest is below.
+#

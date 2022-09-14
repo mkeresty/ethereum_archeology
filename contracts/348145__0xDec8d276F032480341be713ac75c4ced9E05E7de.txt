@@ -1,0 +1,8 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - getHash()
+#  - unknownf748aab5(?)
+#  - _fallback()
+#  All the rest is below.
+#

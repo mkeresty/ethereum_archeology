@@ -1,0 +1,8 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - changeAddr(address _param1)
+#  - unknown4c773795(?)
+#  - _fallback()
+#  All the rest is below.
+#

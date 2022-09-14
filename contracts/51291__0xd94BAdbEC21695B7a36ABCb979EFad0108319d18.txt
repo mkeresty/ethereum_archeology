@@ -1,0 +1,10 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown404ebf6c(?)
+#  - unknown77ef5ed3(?)
+#  - unknown8f98eeda(?)
+#  - vote(bytes32 _slate)
+#  - _fallback()
+#  All the rest is below.
+#

@@ -1,0 +1,18 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - name(address _token)
+#  - setAddr(string _name, address _a)
+#  - addr(string _name)
+#  - subRegistrar(string _name)
+#  - reserve(string _param1)
+#  - setName(string _name)
+#  - setSubRegistrar(string _name, address _registrar)
+#  - content(string _name)
+#  - owner(string _name)
+#  - record(string _hash)
+#  - transfer(string _name, address _newOwner)
+#  - setContent(string _name, bytes32 _content)
+#  - _fallback()
+#  All the rest is below.
+#

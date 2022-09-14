@@ -1,0 +1,14 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown3e6b1c16(?)
+#  - registerPackage(bytes32 _checksum, string _uri)
+#  - getAll()
+#  - version()
+#  - unknown56260a71(?)
+#  - unknown58b83ba4(?)
+#  - getOwner(bytes32 _avatarHash)
+#  - unknownf7291121(?)
+#  - _fallback()
+#  All the rest is below.
+#

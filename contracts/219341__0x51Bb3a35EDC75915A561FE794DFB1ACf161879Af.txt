@@ -1,0 +1,21 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - reCalc()
+#  - getBalance()
+#  - withdraw()
+#  - manager()
+#  - unknown4afdd0e7(?)
+#  - unknown5294010f(?)
+#  - getProfit()
+#  - getCumulativeProfit()
+#  - getDepositDelta()
+#  - withdrawProfit()
+#  - feeRate()
+#  - numDeposits()
+#  - deposit()
+#  - unknownd9607482(?)
+#  - unknownea362937(?)
+#  - _fallback()
+#  All the rest is below.
+#

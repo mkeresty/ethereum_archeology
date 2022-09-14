@@ -1,0 +1,12 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - getAttachesto(uint8 _param1)
+#  - setLocked()
+#  - unknown1256c698(?)
+#  - getOccupies(uint8 _param1)
+#  - getLocked()
+#  - unknownd7f3b73b(?)
+#  - _fallback()
+#  All the rest is below.
+#

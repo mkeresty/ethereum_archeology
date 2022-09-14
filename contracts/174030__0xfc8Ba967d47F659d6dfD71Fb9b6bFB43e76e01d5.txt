@@ -1,0 +1,11 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - kill()
+#  - addressOf(bytes32 _contractName)
+#  - register(bytes32 _name)
+#  - unregister()
+#  - nameOf(address _address)
+#  - _fallback()
+#  All the rest is below.
+#

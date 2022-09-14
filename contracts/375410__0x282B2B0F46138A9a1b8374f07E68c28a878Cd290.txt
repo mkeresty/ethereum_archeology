@@ -1,0 +1,19 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown2a2764a2(?)
+#  - getContractAddress()
+#  - kill()
+#  - getContractOwner()
+#  - unknown6a5ef271(?)
+#  - unknown84313024(?)
+#  - getContractVersion()
+#  - unknown901a66e2(?)
+#  - unknowna0723e60(?)
+#  - unknowna2407de3(?)
+#  - unknownd51eeafd(?)
+#  - unknownebfad501(?)
+#  - getContractName()
+#  - _fallback()
+#  All the rest is below.
+#

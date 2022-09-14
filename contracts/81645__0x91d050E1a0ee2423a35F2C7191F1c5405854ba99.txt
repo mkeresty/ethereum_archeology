@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - createStandardToken(uint256 _param1)
+#  - created(address _param1, uint256 _param2)
+#  - createdByMe()
+#  - _fallback()
+#  All the rest is below.
+#

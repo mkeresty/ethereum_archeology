@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown85295877(?)
+#  - getOwner()
+#  - owner()
+#  - _fallback()
+#  All the rest is below.
+#

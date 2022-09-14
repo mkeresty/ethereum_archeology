@@ -1,0 +1,22 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - creator()
+#  - unknown0f8d43cb(?)
+#  - unknown14134794(?)
+#  - unknown1bfab8c6(?)
+#  - unknown28d8fae7(?)
+#  - sign()
+#  - unknown31044037(?)
+#  - unknown42ad1721(?)
+#  - unknown8801f08e(?)
+#  - unknownb3d941fd(?)
+#  - unknownc4f95d02(?)
+#  - unknownd544003d(?)
+#  - unknownda0eca89(?)
+#  - isSigned()
+#  - unknowneaf601b6(?)
+#  - unknownf6bbe516(?)
+#  - _fallback()
+#  All the rest is below.
+#

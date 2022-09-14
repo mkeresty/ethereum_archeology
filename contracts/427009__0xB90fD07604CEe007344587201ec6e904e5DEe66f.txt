@@ -1,0 +1,7 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - query(uint256 _timestamp, string _datasource, string _arg)
+#  - _fallback()
+#  All the rest is below.
+#

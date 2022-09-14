@@ -1,0 +1,18 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - name(address _token)
+#  - owner(bytes32 _symbol)
+#  - content(bytes32 _node)
+#  - addr(bytes32 _node)
+#  - reserve(bytes32 _name)
+#  - subRegistrar(bytes32 _param1)
+#  - transfer(bytes32 _hash, address _newOwner)
+#  - setSubRegistrar(bytes32 _param1, address _param2)
+#  - Registrar()
+#  - setAddress(bytes32 _param1, address _param2, bool _param3)
+#  - setContent(bytes32 _node, bytes32 _hash)
+#  - disown(bytes32 _param1)
+#  - _fallback()
+#  All the rest is below.
+#

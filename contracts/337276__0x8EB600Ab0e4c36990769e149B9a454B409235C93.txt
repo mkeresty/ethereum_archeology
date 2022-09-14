@@ -1,0 +1,8 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - setBio(bytes3 _param1, bytes _param2)
+#  - getBioLanguages(address _param1)
+#  - _fallback()
+#  All the rest is below.
+#

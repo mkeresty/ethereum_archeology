@@ -1,0 +1,14 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - setOwner(address _new)
+#  - pyramid()
+#  - unknown53ac5ff9(?)
+#  - unknown5e754d55(?)
+#  - isFunded()
+#  - owner()
+#  - isOwner()
+#  - queue()
+#  - _fallback()
+#  All the rest is below.
+#

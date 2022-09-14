@@ -1,0 +1,8 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - getWinningOutcome(uint256 _param1)
+#  - unknownfbd40121(?)
+#  - _fallback()
+#  All the rest is below.
+#

@@ -1,0 +1,12 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - vote(bool _agree, uint256 _amount)
+#  - unknown18d9adab(?)
+#  - unknown2afb2b9b(?)
+#  - kill()
+#  - comments(uint256 _param1)
+#  - unknownc1e6adfd(?)
+#  - _fallback()
+#  All the rest is below.
+#

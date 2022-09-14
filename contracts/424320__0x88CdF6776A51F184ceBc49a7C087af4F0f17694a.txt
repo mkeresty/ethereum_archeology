@@ -1,0 +1,18 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - getNodeRightChild(GroveLib.Index storage _index, bytes32 _nodeId)
+#  - getNodeLeftChild(GroveLib.Index storage _index, bytes32 _nodeId)
+#  - getNodeParent(GroveLib.Index storage _index, bytes32 _nodeId)
+#  - getNodeValue(GroveLib.Index storage _index, bytes32 _nodeId)
+#  - getNodeHeight(GroveLib.Index storage _index, bytes32 _nodeId)
+#  - remove(GroveLib.Index storage _index, bytes32 _id)
+#  - insert(GroveLib.Index storage _index, bytes32 _id, int256 _value)
+#  - getNodeId(GroveLib.Index storage _index, bytes32 _nodeId)
+#  - getNextNode(GroveLib.Index storage _index, bytes32 _nodeId)
+#  - getPreviousNode(GroveLib.Index storage _index, bytes32 _nodeId)
+#  - query(GroveLib.Index storage _index, bytes2 _operator, int256 _value)
+#  - exists(GroveLib.Index storage _index, bytes32 _id)
+#  - _fallback()
+#  All the rest is below.
+#

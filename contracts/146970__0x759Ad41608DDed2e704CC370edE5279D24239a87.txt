@@ -1,0 +1,7 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - getMyBalance()
+#  - _fallback()
+#  All the rest is below.
+#

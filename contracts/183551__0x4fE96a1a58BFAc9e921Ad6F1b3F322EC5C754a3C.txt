@@ -1,0 +1,10 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - queryBalance(address _add)
+#  - mint(address _to, uint256 _amount)
+#  - send(address _target, uint256 _amount)
+#  - deposit(address _addr)
+#  - _fallback()
+#  All the rest is below.
+#

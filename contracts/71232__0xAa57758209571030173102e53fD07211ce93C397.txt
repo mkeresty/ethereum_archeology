@@ -1,0 +1,16 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown2168129d(?)
+#  - tickets(uint256 _param1)
+#  - payout()
+#  - buyTicket(uint256 _betPrice)
+#  - submitted()
+#  - unknown7c1c1716(?)
+#  - lastBlock()
+#  - unknowna294958b(?)
+#  - balance()
+#  - payoutReady()
+#  - _fallback()
+#  All the rest is below.
+#

@@ -1,0 +1,15 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown06ae19a2(?)
+#  - unknown076aec33(?)
+#  - returnFunds()
+#  - unknownaef18bf7(?)
+#  - getDocument(bytes32 _param1)
+#  - getLatest()
+#  - documentExists(bytes32 _param1)
+#  - unknowne18129fb(?)
+#  - unknowned26bceb(?)
+#  - _fallback()
+#  All the rest is below.
+#

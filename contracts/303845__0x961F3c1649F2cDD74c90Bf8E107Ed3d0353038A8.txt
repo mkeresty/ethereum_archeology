@@ -1,0 +1,25 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown16328e80(?)
+#  - getTimestamp()
+#  - unknown195984ac(?)
+#  - getMessagesCount()
+#  - finalize()
+#  - getStatus()
+#  - resolve(uint256 _requestNum)
+#  - unknown55d0ad18(?)
+#  - getMessageTimestamp(uint256 _index)
+#  - getBuyer()
+#  - addMessage(string _msgStr)
+#  - getAdmin()
+#  - unknown792568ec(?)
+#  - unknowna79af2ce(?)
+#  - unknownabf244e9(?)
+#  - getFee()
+#  - getMessageSender(uint256 _index)
+#  - cancel()
+#  - dispute()
+#  - _fallback()
+#  All the rest is below.
+#

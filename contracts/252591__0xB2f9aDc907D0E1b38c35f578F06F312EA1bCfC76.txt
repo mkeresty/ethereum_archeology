@@ -1,0 +1,10 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown00e35488(?)
+#  - unregister(bytes32 _id)
+#  - resolve(bytes32 _node)
+#  - register(bytes32 _param1, string _param2)
+#  - _fallback()
+#  All the rest is below.
+#

@@ -1,0 +1,10 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - kill()
+#  - set(uint256 _fee)
+#  - get()
+#  - unknowna27d9bd9(?)
+#  - _fallback()
+#  All the rest is below.
+#

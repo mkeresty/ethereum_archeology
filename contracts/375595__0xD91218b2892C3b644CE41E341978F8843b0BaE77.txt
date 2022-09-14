@@ -1,0 +1,14 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - setContractName(string _newName)
+#  - unknown1a03d342(?)
+#  - unknown32dea6a1(?)
+#  - unknown4991bee4(?)
+#  - unknown62431d91(?)
+#  - unknown9bb13a76(?)
+#  - unknownbc0e166a(?)
+#  - unknowne4c9c4e9(?)
+#  - _fallback()
+#  All the rest is below.
+#

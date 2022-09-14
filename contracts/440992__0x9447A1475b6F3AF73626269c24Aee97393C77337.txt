@@ -1,0 +1,12 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown4c773795(?)
+#  - getPrice(string _datasource)
+#  - indexOf(string _haystack, string _needle)
+#  - setPrice(uint256 _newPrice)
+#  - unknowna4c8a1c1(?)
+#  - query(uint256 _timestamp, string _datasource, string _arg)
+#  - _fallback()
+#  All the rest is below.
+#

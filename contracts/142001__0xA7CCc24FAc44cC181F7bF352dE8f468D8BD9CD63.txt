@@ -1,0 +1,14 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - checkGoalReached()
+#  - deadline()
+#  - beneficiary()
+#  - tokenReward()
+#  - fundingGoal()
+#  - amountRaised()
+#  - price()
+#  - funders(uint256 _param1)
+#  - _fallback()
+#  All the rest is below.
+#

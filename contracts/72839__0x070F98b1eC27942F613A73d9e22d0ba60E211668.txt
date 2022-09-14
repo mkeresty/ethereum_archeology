@@ -1,0 +1,22 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - serverSeed(address _user, bytes32 _seed)
+#  - calcWinnings(uint256 _value, uint256 _chance)
+#  - claimTimeout()
+#  - didWin(bytes32 _secret)
+#  - getMaxPayout()
+#  - withdraw(uint256 _amount)
+#  - setFeed(address _newFeed)
+#  - unknown616fb5d0(?)
+#  - getMinimumBet()
+#  - roll(uint256 _chance, bytes32 _secretHash)
+#  - isReady()
+#  - getResult(bytes32 _secret)
+#  - claim(bytes32 _secret)
+#  - hashTo256(bytes32 _hash)
+#  - hash(bytes32 _input)
+#  - unknownda932856(?)
+#  - _fallback()
+#  All the rest is below.
+#

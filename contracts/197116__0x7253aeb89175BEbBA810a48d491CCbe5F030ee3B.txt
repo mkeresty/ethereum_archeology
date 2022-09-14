@@ -1,0 +1,13 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - AddClaim(uint32 _param1, string _param2, bytes32 _param3, bytes32 _param4, address _param5, uint32 _param6)
+#  - AddSWAndClaim(string _param1, string _param2, bytes32 _param3, bytes32 _param4, bytes32 _param5, string _param6, bytes32 _param7, bytes32 _param8, address _param9, uint32 _param10)
+#  - unknown913d54d5(?)
+#  - GetClaimCount()
+#  - m_software(uint256 _param1)
+#  - AddSoftware(string _param1, string _param2, bytes32 _param3, bytes32 _param4, bytes32 _param5)
+#  - GetSoftwareCount()
+#  - _fallback()
+#  All the rest is below.
+#

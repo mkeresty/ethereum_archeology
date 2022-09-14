@@ -1,0 +1,7 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - forward(address _to)
+#  - _fallback()
+#  All the rest is below.
+#

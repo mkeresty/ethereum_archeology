@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - withdraw(uint256 _amount)
+#  - remove()
+#  - deposit()
+#  - _fallback()
+#  All the rest is below.
+#

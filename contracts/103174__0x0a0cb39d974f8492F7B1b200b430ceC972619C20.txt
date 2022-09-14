@@ -1,0 +1,10 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown04289bec(?)
+#  - getPrice(bytes32 _ticker)
+#  - unknownb9dccd55(?)
+#  - unknownc8507cbd(?)
+#  - _fallback()
+#  All the rest is below.
+#

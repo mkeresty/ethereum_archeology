@@ -1,0 +1,19 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - getHour(uint256 _timestamp)
+#  - getWeekday(uint256 _timestamp)
+#  - toTimestamp(uint16 _year, uint8 _month, uint8 _day, uint8 _hour, uint8 _minute)
+#  - getDay(uint256 _timestamp)
+#  - toTimestamp(uint16 _year, uint8 _month, uint8 _day, uint8 _hour)
+#  - getSecond(uint256 _timestamp)
+#  - toTimestamp(uint16 _year, uint8 _month, uint8 _day)
+#  - toTimestamp(uint16 _year, uint8 _month, uint8 _day, uint8 _hour, uint8 _minute, uint8 _second)
+#  - getYear(uint256 _timestamp)
+#  - getMonth(uint256 _timestamp)
+#  - isLeapYear(uint16 _year)
+#  - __throw()
+#  - getMinute(uint256 _timestamp)
+#  - _fallback()
+#  All the rest is below.
+#

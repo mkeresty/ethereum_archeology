@@ -1,0 +1,10 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown62b62e59(?)
+#  - sendCoin(address _receiver, uint256 _amount)
+#  - coinBalanceOf(address _param1)
+#  - token()
+#  - _fallback()
+#  All the rest is below.
+#

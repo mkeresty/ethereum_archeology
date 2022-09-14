@@ -1,0 +1,11 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown149882e3(?)
+#  - unknown4c773795(?)
+#  - unknown719b1491(?)
+#  - query(uint256 _timestamp, string _datasource, string _arg)
+#  - id()
+#  - _fallback()
+#  All the rest is below.
+#

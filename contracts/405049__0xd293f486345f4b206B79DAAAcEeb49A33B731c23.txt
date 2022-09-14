@@ -1,0 +1,14 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown00108de0(?)
+#  - unknown1c582cf7(?)
+#  - setLedger(address _ledger)
+#  - unknown3d51e9d9(?)
+#  - accounts(address _param1)
+#  - unknownae5ac960(?)
+#  - unknownbca3ccd1(?)
+#  - unknowne33722bc(?)
+#  - _fallback()
+#  All the rest is below.
+#

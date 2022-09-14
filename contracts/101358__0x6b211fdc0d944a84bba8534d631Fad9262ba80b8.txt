@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - commit(bytes _param1, string _param2)
+#  - unknowna8fd3e3e(?)
+#  - unknowndd181c73(?)
+#  - _fallback()
+#  All the rest is below.
+#

@@ -1,0 +1,20 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - started()
+#  - unknown1fc3a9a7(?)
+#  - claimWinner()
+#  - unknown32983c9e(?)
+#  - unknown51453f9d(?)
+#  - unknown62287c31(?)
+#  - unknown6c66cbb9(?)
+#  - unknown71a2ee52(?)
+#  - startTime()
+#  - finished()
+#  - unknowncbb68369(?)
+#  - initialFunds()
+#  - unknownecff250f(?)
+#  - getRemainingTime()
+#  - _fallback()
+#  All the rest is below.
+#

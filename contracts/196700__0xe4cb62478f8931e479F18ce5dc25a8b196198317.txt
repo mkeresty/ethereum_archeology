@@ -1,0 +1,20 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - supply()
+#  - unknown084c4174(?)
+#  - balances(address _param1)
+#  - withdraw(uint256 _amount)
+#  - _db()
+#  - unknown5fc4e171(?)
+#  - unknown604bcb3b(?)
+#  - unknown67ce36c3(?)
+#  - unknown8f666f94(?)
+#  - transfer(address _to, uint256 _value)
+#  - unknownba850a63(?)
+#  - charge(uint256 _param1)
+#  - unknownf427bd46(?)
+#  - burn(uint256 _value, bytes _data)
+#  - _fallback()
+#  All the rest is below.
+#

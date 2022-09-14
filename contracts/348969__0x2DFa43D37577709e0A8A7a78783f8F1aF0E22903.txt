@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown0f91a4de(?)
+#  - unknown20201c01(?)
+#  - ratings(bytes32 _param1)
+#  - _fallback()
+#  All the rest is below.
+#

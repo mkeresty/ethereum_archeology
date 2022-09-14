@@ -1,0 +1,16 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - setOwner(address _new)
+#  - participants(uint256 _param1)
+#  - setBitcoinBridge(address _param1)
+#  - enter(bytes _param1, bytes _param2)
+#  - owner()
+#  - collectedFees()
+#  - collectFees(address _param1)
+#  - payoutIdx()
+#  - unknownb4b31bec(?)
+#  - getNumberOfParticipants()
+#  - _fallback()
+#  All the rest is below.
+#

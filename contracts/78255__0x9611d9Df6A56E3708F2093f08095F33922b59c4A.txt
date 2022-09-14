@@ -1,0 +1,13 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown1fc3a9a7(?)
+#  - claim()
+#  - unknown62287c31(?)
+#  - unknown63898988(?)
+#  - unknown71a2ee52(?)
+#  - unknowncbb68369(?)
+#  - getRemainingTime()
+#  - _fallback()
+#  All the rest is below.
+#

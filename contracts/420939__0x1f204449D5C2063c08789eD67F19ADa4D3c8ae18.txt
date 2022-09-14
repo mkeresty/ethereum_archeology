@@ -1,0 +1,23 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown08ab2167(?)
+#  - reward()
+#  - unknown332d2b87(?)
+#  - unknown43d0e1a4(?)
+#  - unknown4553b787(?)
+#  - unknown458734c7(?)
+#  - unknown4697d3e5(?)
+#  - unknown60e65bae(?)
+#  - check()
+#  - unknown9b2c3af0(?)
+#  - player(uint256 _param1)
+#  - unknownc5d315be(?)
+#  - unknownd0dfec89(?)
+#  - unknowndba680b9(?)
+#  - unknowne9d15932(?)
+#  - unknownee76be97(?)
+#  - unknownf7c0b66e(?)
+#  - _fallback()
+#  All the rest is below.
+#

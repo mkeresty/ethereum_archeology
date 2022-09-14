@@ -1,0 +1,15 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown06ae19a2(?)
+#  - newDocument(bytes32 _param1)
+#  - getDocument(uint256 _documentId)
+#  - history(uint256 _param1)
+#  - unknownaef18bf7(?)
+#  - getLatest()
+#  - documentExists(bytes32 _param1)
+#  - transferDocument(bytes32 _param1, address _param2)
+#  - empty()
+#  - _fallback()
+#  All the rest is below.
+#

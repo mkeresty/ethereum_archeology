@@ -1,0 +1,11 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - setAvatar(uint256 _param1, bytes _param2)
+#  - unknown21e27fde(?)
+#  - getAvatarCount(address _param1)
+#  - deleteAllAvatars()
+#  - deleteAvatar(uint256 _param1)
+#  - _fallback()
+#  All the rest is below.
+#

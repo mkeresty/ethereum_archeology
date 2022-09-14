@@ -1,0 +1,10 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - create(string _name, string _symbol)
+#  - unknown250caccc(?)
+#  - kill()
+#  - unknown68744046(?)
+#  - _fallback()
+#  All the rest is below.
+#

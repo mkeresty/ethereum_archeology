@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown4dfc1abc(?)
+#  - getAdmin()
+#  - unknowna79af2ce(?)
+#  - _fallback()
+#  All the rest is below.
+#

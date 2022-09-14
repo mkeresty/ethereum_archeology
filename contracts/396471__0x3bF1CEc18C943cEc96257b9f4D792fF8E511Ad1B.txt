@@ -1,0 +1,14 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown34c495fb(?)
+#  - unknown3d1c2273(?)
+#  - unknown4d330b0f(?)
+#  - unknown6c497891(?)
+#  - unknown8d1cc925(?)
+#  - unknownda734646(?)
+#  - getCategory(uint256 _catId)
+#  - unknownf437c5bc(?)
+#  - _fallback()
+#  All the rest is below.
+#

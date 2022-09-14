@@ -1,0 +1,10 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - callback()
+#  - unknown2684d75f(?)
+#  - kill()
+#  - indexOf(string _haystack, string _needle)
+#  - _fallback()
+#  All the rest is below.
+#

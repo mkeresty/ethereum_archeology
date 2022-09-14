@@ -1,0 +1,13 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - removeUpdater(address _param1)
+#  - getPrice(bytes32 _ticker)
+#  - addUpdater(address _param1)
+#  - changeOwner(address _newOwnerAddr)
+#  - getTimestamp(bytes32 _hash)
+#  - unknownd5064ed1(?)
+#  - updateTime()
+#  - _fallback()
+#  All the rest is below.
+#

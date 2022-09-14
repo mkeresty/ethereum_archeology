@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - lastBlock()
+#  - unknownbb4c4974(?)
+#  - lastPlayer()
+#  - _fallback()
+#  All the rest is below.
+#

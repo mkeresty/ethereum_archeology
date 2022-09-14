@@ -1,0 +1,16 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown030e151a(?)
+#  - kill()
+#  - unknown4ca7d044(?)
+#  - unknownb990146b(?)
+#  - unknownc927c299(?)
+#  - getRange(uint256 _index)
+#  - unknownd499f2a0(?)
+#  - unknownd8c973d0(?)
+#  - unknownde57c126(?)
+#  - unknownf91ea63c(?)
+#  - _fallback()
+#  All the rest is below.
+#

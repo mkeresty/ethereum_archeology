@@ -1,0 +1,8 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - get()
+#  - set(bytes32 _param1)
+#  - _fallback()
+#  All the rest is below.
+#

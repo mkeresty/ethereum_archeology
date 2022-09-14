@@ -1,0 +1,13 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - setTimeBlock(uint256 _param1)
+#  - close()
+#  - costs()
+#  - setPrice(uint256 _newPrice)
+#  - unknownd686f9ee(?)
+#  - setDeposit(uint256 _param1)
+#  - open()
+#  - _fallback()
+#  All the rest is below.
+#

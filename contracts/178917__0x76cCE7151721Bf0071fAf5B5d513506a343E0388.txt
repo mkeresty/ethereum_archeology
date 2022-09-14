@@ -1,0 +1,10 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown7c16ebcb(?)
+#  - deposit(address _addr)
+#  - withdraw(address _player, uint256 _withdraw_v)
+#  - getBalance(address _currentInvestor)
+#  - _fallback()
+#  All the rest is below.
+#

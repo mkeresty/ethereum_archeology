@@ -1,0 +1,11 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown36df6612(?)
+#  - unknown4e1c412c(?)
+#  - members(uint256 _param1)
+#  - unknown8406373e(?)
+#  - numDeposits()
+#  - _fallback()
+#  All the rest is below.
+#

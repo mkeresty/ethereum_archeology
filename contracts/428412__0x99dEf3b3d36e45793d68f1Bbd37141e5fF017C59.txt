@@ -1,0 +1,11 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - toAddress(bytes32 _param1)
+#  - unknown5c820c96(?)
+#  - unknown81bc3f8c(?)
+#  - register(bytes32 _name)
+#  - unregister()
+#  - _fallback()
+#  All the rest is below.
+#

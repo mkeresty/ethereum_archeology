@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - nameRegAddress()
+#  - unknown9c2a4c3b(?)
+#  - named(bytes32 _param1)
+#  - _fallback()
+#  All the rest is below.
+#

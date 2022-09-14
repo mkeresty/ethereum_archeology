@@ -1,0 +1,10 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - disown(bytes32 _param1, address _param2)
+#  - reserve(bytes32 _name)
+#  - transfer(bytes32 _hash, address _newOwner)
+#  - setAddr(bytes32 _node, address _addr)
+#  - _fallback()
+#  All the rest is below.
+#

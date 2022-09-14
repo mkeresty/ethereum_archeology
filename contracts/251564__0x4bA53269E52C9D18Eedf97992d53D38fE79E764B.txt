@@ -1,0 +1,15 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - finalize(address _param1, uint256 _param2)
+#  - unknown187c5903(?)
+#  - balances(address _param1)
+#  - unknown444bdb1b(?)
+#  - get()
+#  - investors(address _param1)
+#  - unknown71ad7221(?)
+#  - unknown89ac5d13(?)
+#  - invest()
+#  - _fallback()
+#  All the rest is below.
+#

@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - getContractBalance()
+#  - getNumInvestors()
+#  - unknownb521a81d(?)
+#  - _fallback()
+#  All the rest is below.
+#

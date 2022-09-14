@@ -1,0 +1,8 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - setowner()
+#  - unknownd66d6c10(?)
+#  - _fallback()
+#  All the rest is below.
+#

@@ -1,0 +1,12 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - hash()
+#  - __callback(bytes32 _myid, string _result, bytes _proof)
+#  - kill()
+#  - lol()
+#  - unknownb11558ee(?)
+#  - output()
+#  - _fallback()
+#  All the rest is below.
+#

@@ -1,0 +1,17 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - name()
+#  - isApprovedOnceFor(address _param1, address _param2)
+#  - issuer()
+#  - isApprovedFor(address _param1, address _param2)
+#  - transferFrom(address _from, address _to, uint256 _value)
+#  - unknown5580f72a(?)
+#  - balanceOf(address _owner)
+#  - approveOnce(address _param1, uint256 _param2)
+#  - transfer(address _to, uint256 _value)
+#  - approve(address _guy)
+#  - unapprove(address _spender)
+#  - _fallback()
+#  All the rest is below.
+#

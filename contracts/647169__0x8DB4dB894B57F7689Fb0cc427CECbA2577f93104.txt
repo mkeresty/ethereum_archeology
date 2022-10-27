@@ -1,0 +1,15 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown0638883a(?)
+#  - setOwner(address _new)
+#  - setAccountProvider(uint8 _param1, address _param2)
+#  - unknown5668c972(?)
+#  - setStorage(address _s)
+#  - unknown9609367b(?)
+#  - unknownadcd45c8(?)
+#  - unknowncae22f15(?)
+#  - unknowne2f8f22d(?)
+#  - _fallback()
+#  All the rest is below.
+#

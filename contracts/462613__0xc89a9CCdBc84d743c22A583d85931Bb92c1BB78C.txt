@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - publish(string _content)
+#  - hashes(uint256 _param1)
+#  - unknown8c28c022(?)
+#  - _fallback()
+#  All the rest is below.
+#

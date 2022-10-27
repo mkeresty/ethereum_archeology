@@ -1,0 +1,7 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - transferToken(address _tokenAddress, address _to, uint256 _value)
+#  - _fallback()
+#  All the rest is below.
+#

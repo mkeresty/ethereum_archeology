@@ -1,0 +1,20 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - tokensNeededToGetPayment()
+#  - getDividendInfo(uint256 _index)
+#  - get_CountProfitsToken()
+#  - send_DividendToAddress(address _holder, uint256 _amount)
+#  - SetAllPaymentsSent(uint256 _DividendNo)
+#  - changeDeveloper(address _new_dev)
+#  - changeTokensLimit(uint256 _newTokensLimit)
+#  - kill()
+#  - get_HoldersProfit(uint256 _dividendPaymentNum, address _holder)
+#  - get_Holders(uint256 _position)
+#  - dividendCount()
+#  - gameAddress()
+#  - changeManager(address _manager)
+#  - get_CountAllHolderForProfit()
+#  - _fallback()
+#  All the rest is below.
+#

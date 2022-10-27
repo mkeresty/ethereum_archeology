@@ -1,0 +1,13 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - setOwner(address _new)
+#  - unknown2808241a(?)
+#  - unknown6f652e43(?)
+#  - getOwner()
+#  - unknowna7b3b4ae(?)
+#  - isMarket()
+#  - unknownd7e59dc7(?)
+#  - _fallback()
+#  All the rest is below.
+#

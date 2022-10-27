@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - creator()
+#  - payout(address _to)
+#  - finished()
+#  - _fallback()
+#  All the rest is below.
+#

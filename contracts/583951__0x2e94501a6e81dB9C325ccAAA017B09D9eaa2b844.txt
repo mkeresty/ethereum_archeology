@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - getAddr(bytes32 _param1)
+#  - getAlias(address _address)
+#  - unknowndce9a3fb(?)
+#  - _fallback()
+#  All the rest is below.
+#

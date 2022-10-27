@@ -1,0 +1,18 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown1ff6c705(?)
+#  - getRow(uint256 _param1)
+#  - setMinPrice(uint256 _newMinPrice)
+#  - unknown69d640fd(?)
+#  - setFeePercent(uint256 _feePercent)
+#  - feePercent()
+#  - owner()
+#  - unknownc943e51a(?)
+#  - unknownd229b54b(?)
+#  - minPrice()
+#  - empty()
+#  - unknownf46a85a9(?)
+#  - _fallback()
+#  All the rest is below.
+#

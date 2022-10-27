@@ -1,0 +1,14 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - verify(bytes32 _param1, string _param2, string _param3)
+#  - setOwner(address _new)
+#  - __callback(bytes32 _oraclizeId, string _result)
+#  - setLookup(address _param1)
+#  - unknown68215003(?)
+#  - score(bytes32 _param1, string _param2)
+#  - verifyUrl(string _param1, string _param2)
+#  - oraclize_setProof(bytes1 _proofP)
+#  - _fallback()
+#  All the rest is below.
+#

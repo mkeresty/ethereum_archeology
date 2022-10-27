@@ -1,0 +1,30 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - name()
+#  - approve(address _spender, uint256 _value)
+#  - totalSupply()
+#  - saleover()
+#  - transferFrom(address _from, address _to, uint256 _value)
+#  - decimals()
+#  - standard()
+#  - getreward()
+#  - balanceOf(address _owner)
+#  - totalTokens()
+#  - buyPrice()
+#  - owner()
+#  - symbol()
+#  - crowdsale()
+#  - buy()
+#  - transfer(address _to, uint256 _value)
+#  - fund(uint256 _amount)
+#  - approveAndCall(address _spender, uint256 _amount, bytes _extraData)
+#  - komission()
+#  - frozenAccountProfit(address _param1)
+#  - allowance(address _owner, address _spender)
+#  - balance(address _param1)
+#  - transferOwnership(address _newOwner)
+#  - frozenProfitDate(address _param1)
+#  - _fallback()
+#  All the rest is below.
+#

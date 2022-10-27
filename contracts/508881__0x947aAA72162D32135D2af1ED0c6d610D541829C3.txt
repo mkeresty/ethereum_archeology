@@ -1,0 +1,14 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - sendRobust(address _toAddress, uint256 _value)
+#  - Deposit(address _from, address _accountAddress, uint256 _value)
+#  - InsufficientFunds(address _accountAddress, uint256 _value, uint256 _balance)
+#  - addFunds(AccountingLib.Bank storage _self, address _accountAddress, uint256 _value)
+#  - Withdrawal(address _owner, uint256 _amount)
+#  - deposit(AccountingLib.Bank storage _self, address _accountAddress, uint256 _value)
+#  - withdraw(AccountingLib.Bank storage _self, address _accountAddress, uint256 _value)
+#  - deductFunds(AccountingLib.Bank storage _self, address _accountAddress, uint256 _value)
+#  - _fallback()
+#  All the rest is below.
+#

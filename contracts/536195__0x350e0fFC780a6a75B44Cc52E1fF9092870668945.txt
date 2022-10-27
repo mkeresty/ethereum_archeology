@@ -1,0 +1,26 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown1ff6c705(?)
+#  - unknown47980c0d(?)
+#  - getPixel(uint16 _param1, uint16 _param2)
+#  - setMinPrice(uint256 _newMinPrice)
+#  - unknown69d640fd(?)
+#  - setFeePercent(uint256 _feePercent)
+#  - unknown7d1bb97a(?)
+#  - feePercent()
+#  - unknown8bf50628(?)
+#  - unknown90a248f8(?)
+#  - unknowna8f37bb2(?)
+#  - unknownb019e017(?)
+#  - unknownb4c70cea(?)
+#  - unknowncf955f34(?)
+#  - unknownd229b54b(?)
+#  - unknownd54b4a04(?)
+#  - unknowne021fadb(?)
+#  - minPrice()
+#  - unknowneddfa7c8(?)
+#  - empty()
+#  - _fallback()
+#  All the rest is below.
+#

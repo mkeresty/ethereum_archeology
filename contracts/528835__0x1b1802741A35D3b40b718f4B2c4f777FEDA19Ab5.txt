@@ -1,0 +1,12 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown08c2e0bb(?)
+#  - kill()
+#  - unknown5ad77157(?)
+#  - update()
+#  - __callback(bytes32 _param1, string _param2, string _param3)
+#  - ETHXBT()
+#  - _fallback()
+#  All the rest is below.
+#

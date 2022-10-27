@@ -1,0 +1,14 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - kill()
+#  - unknown4aa8199e(?)
+#  - log()
+#  - unknown77fa5d9e(?)
+#  - parseAddr(string _a)
+#  - unknownc85402ad(?)
+#  - unknownd379d2db(?)
+#  - test()
+#  - _fallback()
+#  All the rest is below.
+#

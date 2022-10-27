@@ -1,0 +1,21 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown0cf7cb67(?)
+#  - unknown0f9aa6ad(?)
+#  - unknown14dee4b3(?)
+#  - unknown15dc609b(?)
+#  - unknown24bac415(?)
+#  - setFees(uint256 _fees)
+#  - unknown4b491823(?)
+#  - unknown4edbdba6(?)
+#  - unknownbb2da088(?)
+#  - sendEther(address _destination, uint256 _amount)
+#  - unknowncd8ff657(?)
+#  - unknownd1d58094(?)
+#  - getFees()
+#  - unknowne8b69bc3(?)
+#  - unknownfcad990e(?)
+#  - _fallback()
+#  All the rest is below.
+#

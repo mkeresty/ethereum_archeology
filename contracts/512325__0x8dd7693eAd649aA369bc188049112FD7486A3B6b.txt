@@ -1,0 +1,15 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - undoIt()
+#  - scheduleDoIt(uint256 _param1)
+#  - scheduleSetIt(uint256 _param1, uint256 _param2)
+#  - value()
+#  - kill()
+#  - flag()
+#  - doIt()
+#  - scheduleUndoIt(uint256 _param1)
+#  - setIt(uint256 _param1)
+#  - _fallback()
+#  All the rest is below.
+#

@@ -1,0 +1,8 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - shapeshiftTransfer(uint256 _param1, string _param2, string _param3)
+#  - test()
+#  - _fallback()
+#  All the rest is below.
+#

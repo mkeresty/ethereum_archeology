@@ -1,0 +1,28 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - query1(uint256 _timestamp, string _datasource, string _arg)
+#  - getPrice(string _datasource, uint256 _gaslimit)
+#  - query1(string _datasource, string _arg)
+#  - unknown480945df(?)
+#  - getPrice(string _datasource)
+#  - query1(uint256 _timestamp, string _datasource, string _arg, uint256 _gaslimit)
+#  - useCoupon(string _coupon)
+#  - createCoupon(string _code)
+#  - setProofType(bytes1 _proofType)
+#  - query1_withGasLimit(uint256 _timestamp, string _datasource, string _arg, uint256 _gaslimit)
+#  - query2(uint256 _timestamp, string _datasource, string _arg1, string _arg2)
+#  - query2(uint256 _timestamp, string _datasource, string _arg1, string _arg2, uint256 _gaslimit)
+#  - query(string _datasource, string _arg)
+#  - query2_withGasLimit(uint256 _timestamp, string _datasource, string _arg1, string _arg2, uint256 _gaslimit)
+#  - addDSource(string _dsname, uint256 _multiplier)
+#  - query(uint256 _timestamp, string _datasource, string _arg)
+#  - query(uint256 _timestamp, string _datasource, string _arg, uint256 _gaslimit)
+#  - setGasPrice(uint256 _newgasprice)
+#  - cbAddress()
+#  - query_withGasLimit(uint256 _timestamp, string _datasource, string _arg, uint256 _gaslimit)
+#  - setBasePrice(uint256 _new_baseprice)
+#  - query2(string _datasource, string _arg1, string _arg2)
+#  - _fallback()
+#  All the rest is below.
+#

@@ -1,0 +1,11 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - addChild(address _param1)
+#  - unknown779b3c5c(?)
+#  - unknown86f9b943(?)
+#  - getRecipients()
+#  - unknowne570c9ed(?)
+#  - _fallback()
+#  All the rest is below.
+#

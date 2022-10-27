@@ -1,0 +1,10 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown2a7fa047(?)
+#  - kill()
+#  - verify(address _param1, bytes32 _param2, uint8 _param3, bytes32 _param4, bytes32 _param5)
+#  - owner()
+#  - _fallback()
+#  All the rest is below.
+#

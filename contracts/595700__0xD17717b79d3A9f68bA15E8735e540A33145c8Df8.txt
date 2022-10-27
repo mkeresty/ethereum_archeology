@@ -1,0 +1,13 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown00c9b1de(?)
+#  - Wallet()
+#  - setOwner(address _new)
+#  - kill()
+#  - authorizeAddress(address _authorizedAddress)
+#  - execute(address _to, uint256 _value, bytes _data)
+#  - deauthorizeAddress(address _addr)
+#  - _fallback()
+#  All the rest is below.
+#

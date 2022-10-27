@@ -1,0 +1,7 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - getBalance(address _currentInvestor)
+#  - _fallback()
+#  All the rest is below.
+#

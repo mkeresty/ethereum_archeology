@@ -1,0 +1,16 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - setOwner(address _new)
+#  - register()
+#  - setLookup(address _param1)
+#  - unknown49c02814(?)
+#  - unknown625d0be9(?)
+#  - unlinkAddress(address _param1)
+#  - updateAccount(uint8 _param1, bytes32 _param2, bool _param3, bytes32 _param4)
+#  - linkAddress(address _param1)
+#  - linkAccount(uint8 _param1, string _param2, string _param3)
+#  - addressToPersonId(address _param1)
+#  - _fallback()
+#  All the rest is below.
+#

@@ -1,0 +1,10 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - setOwner(address _new)
+#  - child()
+#  - kill()
+#  - unknown8bf88de6(?)
+#  - _fallback()
+#  All the rest is below.
+#

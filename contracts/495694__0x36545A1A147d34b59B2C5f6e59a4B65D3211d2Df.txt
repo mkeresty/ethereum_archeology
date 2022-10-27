@@ -1,0 +1,8 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown175f75f8(?)
+#  - oraclize_query(string _datasource, string _arg)
+#  - _fallback()
+#  All the rest is below.
+#

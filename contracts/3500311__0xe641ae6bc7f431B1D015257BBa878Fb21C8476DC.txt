@@ -1,0 +1,10 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - upgrade(address _nextVersion)
+#  - last_completed_migration()
+#  - owner()
+#  - setCompleted(uint256 _completed)
+#  - _fallback()
+#  All the rest is below.
+#

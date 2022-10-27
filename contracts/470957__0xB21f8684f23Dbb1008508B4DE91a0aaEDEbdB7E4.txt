@@ -1,0 +1,22 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - setLocked()
+#  - getWhatHappened()
+#  - getLocked()
+#  - buyTile(uint8 _param1, uint8 _param2)
+#  - kill()
+#  - setStatus(uint8 _param1, uint8 _param2, string _param3)
+#  - setOwner(uint8 _param1, uint8 _param2, address _param3)
+#  - getLastFarm(uint8 _param1, uint8 _param2)
+#  - editBlock(uint8 _param1, uint8 _param2, uint256 _param3, int8[5] _param4)
+#  - farmTile(uint8 _param1, uint8 _param2, int8 _param3)
+#  - setName(uint8 _param1, uint8 _param2, string _param3)
+#  - getName(uint8 _param1, uint8 _param2)
+#  - getStatus(uint8 _param1, uint8 _param2)
+#  - getOwner(uint8 _param1, uint8 _param2)
+#  - empty()
+#  - getBlocks(uint8 _param1, uint8 _param2)
+#  - _fallback()
+#  All the rest is below.
+#

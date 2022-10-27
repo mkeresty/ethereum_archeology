@@ -1,0 +1,16 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown0555ff41(?)
+#  - unknown1f4339d8(?)
+#  - chairperson()
+#  - unknown701456bc(?)
+#  - fundingGoal()
+#  - amountRaised()
+#  - unknown7d525f42(?)
+#  - canSign(address _param1)
+#  - funders(uint256 _param1)
+#  - token()
+#  - _fallback()
+#  All the rest is below.
+#

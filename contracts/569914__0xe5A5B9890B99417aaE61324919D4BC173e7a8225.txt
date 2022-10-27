@@ -1,0 +1,14 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - proposals(uint256 _param1)
+#  - executeProposal(uint256 _proposalNumber)
+#  - sharesTokenAddress()
+#  - numProposals()
+#  - debatingPeriodInMinutes()
+#  - minimumQuorum()
+#  - vote(uint256 _proposalID, bool _supportsProposal)
+#  - unknownde68e593(?)
+#  - _fallback()
+#  All the rest is below.
+#

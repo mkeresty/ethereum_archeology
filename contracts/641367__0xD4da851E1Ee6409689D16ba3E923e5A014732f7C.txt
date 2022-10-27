@@ -1,0 +1,14 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - returnFunds()
+#  - unknown25b12808(?)
+#  - unknown32bc3f58(?)
+#  - kill()
+#  - unknown42ab30ed(?)
+#  - unknown5c1e108c(?)
+#  - unknownbb12540a(?)
+#  - checkHashExists(bytes32 _ipfsHash)
+#  - _fallback()
+#  All the rest is below.
+#

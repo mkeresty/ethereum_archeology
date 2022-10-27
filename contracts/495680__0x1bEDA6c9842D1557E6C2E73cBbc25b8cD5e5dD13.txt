@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - krakenTicker()
+#  - __callback(bytes32 _myid, string _result, bytes _proof)
+#  - oraclize_query(string _datasource, string _arg)
+#  - _fallback()
+#  All the rest is below.
+#

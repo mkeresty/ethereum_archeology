@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown083b03f2(?)
+#  - getProfile(address _param1)
+#  - unknownbf1c5394(?)
+#  - _fallback()
+#  All the rest is below.
+#

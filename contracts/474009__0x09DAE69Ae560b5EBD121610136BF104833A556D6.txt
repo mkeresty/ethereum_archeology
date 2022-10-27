@@ -1,0 +1,22 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown0f8ebe27(?)
+#  - unknown187c5903(?)
+#  - unknown1bccca14(?)
+#  - __callback(bytes32 _oraclizeId, string _result)
+#  - unknown29f8df0d(?)
+#  - unknown437600bc(?)
+#  - unknown444bdb1b(?)
+#  - oraclize_query(string _datasource, string _arg)
+#  - unknown63be1d22(?)
+#  - get()
+#  - unknown6e723e24(?)
+#  - unknown71ad7221(?)
+#  - unknowna32da9d1(?)
+#  - unknownbf37df2f(?)
+#  - invest()
+#  - register(string _param1, uint256 _param2)
+#  - _fallback()
+#  All the rest is below.
+#

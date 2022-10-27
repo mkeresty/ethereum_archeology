@@ -1,0 +1,13 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - __callback(bytes32 _oraclizeId, string _result)
+#  - kill()
+#  - oraclize_query(uint256 _timestamp, string _datasource, string _arg1, string _arg2)
+#  - oraclize_query(uint256 _timestamp, string _datasource, string _arg)
+#  - update()
+#  - ETHXBT()
+#  - unknownd5948770(?)
+#  - _fallback()
+#  All the rest is below.
+#

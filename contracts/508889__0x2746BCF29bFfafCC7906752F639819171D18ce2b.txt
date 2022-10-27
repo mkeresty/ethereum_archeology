@@ -1,0 +1,12 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown115256d8(?)
+#  - cancel(address _tag)
+#  - extractCallData(CallLib.Call storage _call, bytes _data)
+#  - sendSafe(address _to_address, uint256 _value)
+#  - getCallFeeScalar(uint256 _param1, uint256 _param2)
+#  - CallAborted(address _executor, bytes32 _reason)
+#  - _fallback()
+#  All the rest is below.
+#

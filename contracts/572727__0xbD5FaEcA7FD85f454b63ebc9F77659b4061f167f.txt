@@ -1,0 +1,13 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown073eb4ed(?)
+#  - unknown11469cdb(?)
+#  - get_balance(address _query_address)
+#  - unknown30dc9cee(?)
+#  - unknown7988ac04(?)
+#  - unknowna038d41c(?)
+#  - unknowna60c3b1b(?)
+#  - _fallback()
+#  All the rest is below.
+#

@@ -1,0 +1,30 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown05fba8b7(?)
+#  - unknown10666547(?)
+#  - unknown1f471849(?)
+#  - unknown3ed48679(?)
+#  - absMaxFee()
+#  - accounts(address _param1)
+#  - unknown651e723c(?)
+#  - unknown76c6a1a1(?)
+#  - unknown778c634e(?)
+#  - unknown77a6fc25(?)
+#  - feePercent()
+#  - getAccountBalance(address _accountAddress)
+#  - _calculateFee(uint256 _param1)
+#  - transfer(address _to, uint256 _value)
+#  - unknownac44ebb0(?)
+#  - absMinFee()
+#  - unknownae10440e(?)
+#  - annualInterest()
+#  - createdAt()
+#  - unknowne7f41213(?)
+#  - unknownee95e8b6(?)
+#  - unknownf263123e(?)
+#  - unknownf3ac48f6(?)
+#  - transactionsCount()
+#  - _fallback()
+#  All the rest is below.
+#

@@ -1,0 +1,11 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - bet()
+#  - __callback(bytes32 _oraclizeId, string _result)
+#  - kill()
+#  - rollDice()
+#  - oraclize_setProof(bytes1 _proofP)
+#  - _fallback()
+#  All the rest is below.
+#

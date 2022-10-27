@@ -1,0 +1,18 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown21df594c(?)
+#  - getMinimumBond()
+#  - unknown62352f33(?)
+#  - getMinimumCallCost(uint256 _param1)
+#  - unknown7365bb9a(?)
+#  - unknown76a765ec(?)
+#  - unknown7da85730(?)
+#  - getMinimumCallCost(uint256 _basePayment, uint256 _baseDonation)
+#  - getMinimumCallGas()
+#  - getCallWindowSize()
+#  - getMinimumGracePeriod()
+#  - unknownd17b9e10(?)
+#  - _fallback()
+#  All the rest is below.
+#

@@ -1,0 +1,16 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown0d932e70(?)
+#  - unknown177551ae(?)
+#  - unknown33514006(?)
+#  - identify(address _address)
+#  - rename(string _param1)
+#  - unknown93c0d60d(?)
+#  - unknown9a2bff4f(?)
+#  - unregister()
+#  - register(string _eos_account_name)
+#  - lookup(string _param1)
+#  - _fallback()
+#  All the rest is below.
+#

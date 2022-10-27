@@ -1,0 +1,15 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - query1(uint256 _timestamp, string _datasource, string _arg)
+#  - getPrice(string _datasource, uint256 _gaslimit)
+#  - unknown4c773795(?)
+#  - getPrice(string _datasource)
+#  - query2(uint256 _timestamp, string _datasource, string _arg1, string _arg2)
+#  - addDSource(string _dsname, uint256 _multiplier)
+#  - query(uint256 _timestamp, string _datasource, string _arg)
+#  - setGasPrice(uint256 _newgasprice)
+#  - setBasePrice(uint256 _new_baseprice)
+#  - _fallback()
+#  All the rest is below.
+#

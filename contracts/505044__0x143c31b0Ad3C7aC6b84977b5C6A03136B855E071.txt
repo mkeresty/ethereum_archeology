@@ -1,0 +1,20 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown4bee472b(?)
+#  - unknown4e15c376(?)
+#  - unknown55ed26c9(?)
+#  - unknown6f9c494b(?)
+#  - board()
+#  - valid_creature(address _param1)
+#  - register_creature(address _param1)
+#  - unknown965fd7b6(?)
+#  - unknowna49c326e(?)
+#  - add_creature(address _param1, string _param2)
+#  - _random_empty_location()
+#  - all_creatures_for_species(uint256 _param1)
+#  - admin()
+#  - gas_amount()
+#  - _fallback()
+#  All the rest is below.
+#

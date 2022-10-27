@@ -1,0 +1,17 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - cost()
+#  - updateCost(uint256 _newCost)
+#  - unknown2e723593(?)
+#  - withdraw()
+#  - percent()
+#  - unknown8260dd31(?)
+#  - updateOwner(address _newOwner)
+#  - contractBalance()
+#  - unknown93ec714e(?)
+#  - unknownc056b707(?)
+#  - unknownc6030f4d(?)
+#  - _fallback()
+#  All the rest is below.
+#

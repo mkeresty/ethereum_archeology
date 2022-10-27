@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - __callback(bytes32 _oraclizeId, string _result)
+#  - oraclize_setProof(bytes1 _proofP)
+#  - escrow(uint256 _param1, string _param2, address _param3, uint256 _param4)
+#  - _fallback()
+#  All the rest is below.
+#

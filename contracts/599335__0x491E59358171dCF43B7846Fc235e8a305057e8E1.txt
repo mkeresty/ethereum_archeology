@@ -1,0 +1,12 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - name()
+#  - decimals()
+#  - balanceOf(address _owner)
+#  - symbol()
+#  - transfer(address _to, uint256 _value)
+#  - MyToken(uint256 _param1, string _param2, string _param3, uint8 _param4)
+#  - _fallback()
+#  All the rest is below.
+#

@@ -1,0 +1,8 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown30547e4c(?)
+#  - voters(address _param1)
+#  - _fallback()
+#  All the rest is below.
+#

@@ -1,0 +1,17 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - adminUnregister(string _param1)
+#  - register(string _name, address _directAddress)
+#  - getNumberOfAccounts()
+#  - adminRetrieveDonations()
+#  - getAddressOfName(string _param1)
+#  - adminDeleteRegistry()
+#  - adminSetAccountAdministrator(address _param1)
+#  - adminSetRegistrationDisabled(bool _param1)
+#  - getNameOfAddress(address _param1)
+#  - unregister()
+#  - getAddressOfId(uint256 _param1)
+#  - _fallback()
+#  All the rest is below.
+#

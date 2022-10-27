@@ -1,0 +1,15 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - timeout(uint256 _param1)
+#  - cancel(uint256 _imageId)
+#  - getLog()
+#  - start(uint256 _winPrice)
+#  - show(uint256 _param1, uint256 _param2)
+#  - poll(uint32 _param1)
+#  - collect()
+#  - reply(uint256 _param1, uint8 _param2)
+#  - cleanLog()
+#  - _fallback()
+#  All the rest is below.
+#

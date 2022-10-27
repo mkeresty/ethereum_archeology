@@ -1,0 +1,14 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - getOwnerAddress()
+#  - adminDeleteAccount()
+#  - adminRetrieveDonations(address _param1)
+#  - getLatestTweet()
+#  - isAdmin()
+#  - getTweet(uint256 _param1)
+#  - getNumberOfTweets()
+#  - tweet(string _param1)
+#  - _fallback()
+#  All the rest is below.
+#

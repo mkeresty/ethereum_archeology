@@ -1,0 +1,26 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - getFeePercentage()
+#  - getTimestamp()
+#  - unknown195984ac(?)
+#  - withdraw(uint256 _amount)
+#  - unknown381cb366(?)
+#  - finalize()
+#  - getStatus()
+#  - resolve(uint256 _requestNum)
+#  - unknown55d0ad18(?)
+#  - unknown5b711102(?)
+#  - getBuyer()
+#  - unknown780528da(?)
+#  - unknown8f68c22f(?)
+#  - unknownb01e8159(?)
+#  - unknownb71e6c9a(?)
+#  - getFee()
+#  - unknowndf20f47a(?)
+#  - calculateFee()
+#  - cancel()
+#  - dispute()
+#  - _fallback()
+#  All the rest is below.
+#

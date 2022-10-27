@@ -1,0 +1,17 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - count()
+#  - delete_entry(uint256 _param1, uint256 _param2, uint256 _param3)
+#  - get_length(uint256 _param1, uint256 _param2)
+#  - clear(uint256 _tokenAmount, uint256 _etherAmount)
+#  - add(uint256 _param1, uint256 _param2, uint256 _param3)
+#  - get_entry(uint256 _param1, uint256 _param2, uint256 _param3)
+#  - get_all(uint256 _param1, uint256 _param2)
+#  - new_entry()
+#  - has(uint256 _param1)
+#  - transfer_ownership(address _to)
+#  - admin()
+#  - _fallback()
+#  All the rest is below.
+#

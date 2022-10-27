@@ -1,0 +1,27 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown087e6e81(?)
+#  - unknown109c4be9(?)
+#  - unknown11b918e6(?)
+#  - unknown1dabb452(?)
+#  - unknown34ffbd3d(?)
+#  - kill()
+#  - unknown48fe061f(?)
+#  - unknown5c0f4845(?)
+#  - r()
+#  - unknown7845dd05(?)
+#  - v()
+#  - isValidSignature(address _signer, bytes32 _hash, uint8 _v, bytes32 _r, bytes32 _s)
+#  - s()
+#  - unknown96d107f6(?)
+#  - unknowna1e754ea(?)
+#  - parseAddr(string _a)
+#  - unknowne2a96737(?)
+#  - unknownef36257a(?)
+#  - unknownf3acae3a(?)
+#  - unknownf61d442d(?)
+#  - unknownf8043b9e(?)
+#  - _fallback()
+#  All the rest is below.
+#

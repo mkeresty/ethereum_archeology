@@ -1,0 +1,8 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown48d07c59(?)
+#  - register(bytes32 _name)
+#  - _fallback()
+#  All the rest is below.
+#

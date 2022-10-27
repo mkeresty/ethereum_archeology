@@ -1,0 +1,22 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - eth_amount()
+#  - unknown4bee472b(?)
+#  - unknown4e15c376(?)
+#  - clear()
+#  - unknown55ed26c9(?)
+#  - board()
+#  - valid_creature(address _param1)
+#  - register_creature(address _param1)
+#  - unknown965fd7b6(?)
+#  - unknownbfc16fd2(?)
+#  - add_creature(address _param1, string _param2)
+#  - _random_empty_location()
+#  - all_creatures_for_species(uint256 _param1)
+#  - unknowne6617af4(?)
+#  - set_devcon_map()
+#  - admin()
+#  - _fallback()
+#  All the rest is below.
+#

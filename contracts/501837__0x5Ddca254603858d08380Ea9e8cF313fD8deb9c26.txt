@@ -1,0 +1,32 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown0a009097(?)
+#  - unknown1e3dbb27(?)
+#  - get_keys()
+#  - get_read_only_keys()
+#  - add_to_association(uint256 _param1, uint256 _param2, uint256 _param3)
+#  - db()
+#  - get_associations()
+#  - has_owners(uint256 _param1)
+#  - validate(address _param1, uint256 _param2, uint256[101][] _param3)
+#  - id_for_address(address _param1)
+#  - keys(uint256 _param1, uint256 _param2)
+#  - get_default_keys()
+#  - destroy(uint256 _assetId)
+#  - add_owner(uint256 _param1, address _param2)
+#  - add_rating(uint256 _param1, uint256 _param2)
+#  - create(uint256[101][] _param1)
+#  - replace(address _param1)
+#  - unknownd5281618(?)
+#  - is_owner(uint256 _param1, address _param2)
+#  - is_destroyed(uint256 _param1)
+#  - unknownde778edb(?)
+#  - set_reference(uint256 _param1, uint256 _param2, uint256 _param3)
+#  - unknowne7156dbe(?)
+#  - update(uint256 _param1, uint256[101][] _param2)
+#  - get_blocks_for(uint256 _param1)
+#  - unknownffd1d504(?)
+#  - _fallback()
+#  All the rest is below.
+#

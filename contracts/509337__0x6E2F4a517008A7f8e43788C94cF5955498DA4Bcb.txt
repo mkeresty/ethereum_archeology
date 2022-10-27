@@ -1,0 +1,17 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown08f13f8f(?)
+#  - setOwner(address _new)
+#  - unknown25f70344(?)
+#  - deadline()
+#  - setup(string _name, string _symbol, uint256 _totalSupply, uint256 _decimals)
+#  - beneficiary()
+#  - checkGoal()
+#  - fundingGoal()
+#  - amountRaised()
+#  - owner()
+#  - currency()
+#  - _fallback()
+#  All the rest is below.
+#

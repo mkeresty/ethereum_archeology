@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - __callback(bytes32 _oraclizeId, string _result)
+#  - kill()
+#  - transfer(string _param1, string _param2)
+#  - _fallback()
+#  All the rest is below.
+#

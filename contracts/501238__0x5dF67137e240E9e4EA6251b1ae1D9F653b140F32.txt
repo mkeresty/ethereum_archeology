@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - number_of_claims()
+#  - claims(uint256 _param1)
+#  - claim(string _username)
+#  - _fallback()
+#  All the rest is below.
+#

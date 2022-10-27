@@ -1,0 +1,10 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - setOwner(address _new)
+#  - kill()
+#  - unknown84b73b24(?)
+#  - create(address _param1, uint256 _param2, address _param3, address _param4)
+#  - _fallback()
+#  All the rest is below.
+#

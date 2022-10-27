@@ -1,0 +1,13 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown2bc9ed02(?)
+#  - unknown4e3b62ec(?)
+#  - version()
+#  - owner()
+#  - revoke()
+#  - ipfsHash()
+#  - unknowne322a468(?)
+#  - _fallback()
+#  All the rest is below.
+#

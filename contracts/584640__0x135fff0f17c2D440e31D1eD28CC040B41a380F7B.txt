@@ -1,0 +1,14 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - reward()
+#  - unknown332d2b87(?)
+#  - unknown3da94480(?)
+#  - finalize()
+#  - player(uint256 _param1)
+#  - winner()
+#  - unknownee76be97(?)
+#  - unknownfd77fdfb(?)
+#  - _fallback()
+#  All the rest is below.
+#

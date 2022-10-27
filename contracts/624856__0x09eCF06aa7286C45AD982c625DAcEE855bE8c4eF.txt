@@ -1,0 +1,27 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown05fba8b7(?)
+#  - unknown10666547(?)
+#  - unknown1f471849(?)
+#  - unknown2d3f945f(?)
+#  - unknown3bffbb6f(?)
+#  - unknown3ed48679(?)
+#  - unknown5d8960c8(?)
+#  - accounts(address _param1)
+#  - unknown658f4abe(?)
+#  - unknown76c6a1a1(?)
+#  - unknown778c634e(?)
+#  - getAccountBalance(address _accountAddress)
+#  - unknowna6df510a(?)
+#  - transfer(address _to, uint256 _value)
+#  - unknownac44ebb0(?)
+#  - unknownae10440e(?)
+#  - annualInterest()
+#  - createdAt()
+#  - unknowne7f41213(?)
+#  - unknownf263123e(?)
+#  - transactionsCount()
+#  - _fallback()
+#  All the rest is below.
+#

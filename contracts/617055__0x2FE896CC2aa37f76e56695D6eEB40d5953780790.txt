@@ -1,0 +1,12 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - root_domain()
+#  - getDomain(uint256 _domain)
+#  - n_domains()
+#  - getId(uint256 _domain, uint256 _id)
+#  - changeDomain(uint256 _domain, uint256 _expires, uint256 _price, address _transfer)
+#  - changeId(uint256 _domain, uint256 _name, uint256 _value)
+#  - _fallback()
+#  All the rest is below.
+#

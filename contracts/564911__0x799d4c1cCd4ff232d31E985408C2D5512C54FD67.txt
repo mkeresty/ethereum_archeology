@@ -1,0 +1,19 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown029c50f3(?)
+#  - register()
+#  - update(uint256 _param1, uint256 _param2)
+#  - kill()
+#  - unknown495effd5(?)
+#  - unknown5d6180bc(?)
+#  - unknown77e54302(?)
+#  - unknown793d73c2(?)
+#  - unknowna0db02f6(?)
+#  - unknownba4ac146(?)
+#  - unknownc6541a0e(?)
+#  - unknownd193e45e(?)
+#  - admin()
+#  - _fallback()
+#  All the rest is below.
+#

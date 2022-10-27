@@ -1,0 +1,17 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - nameRegAddress()
+#  - giveKudos(address _param1, uint256 _param2)
+#  - register(address _addr, uint256 _affID, bool _isSuper)
+#  - getKudosPerProject(address _giver)
+#  - getKudosLeft(address _addr)
+#  - named(bytes32 _param1)
+#  - changeOwner(address _newOwnerAddr)
+#  - finish()
+#  - getKudosLeftForProject(address _param1, address _param2)
+#  - getProjectKudos(address _param1)
+#  - getKudosGiven(address _addr)
+#  - _fallback()
+#  All the rest is below.
+#

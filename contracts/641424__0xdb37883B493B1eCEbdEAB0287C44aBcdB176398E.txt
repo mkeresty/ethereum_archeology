@@ -1,0 +1,15 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - name()
+#  - issuer()
+#  - decimals()
+#  - balanceOf(address _owner)
+#  - mintToken(address _target, uint256 _mintedAmount)
+#  - symbol()
+#  - transfer(address _to, uint256 _value)
+#  - frozenAccount(address _param1)
+#  - freezeAccount(address _target, bool _freeze)
+#  - _fallback()
+#  All the rest is below.
+#

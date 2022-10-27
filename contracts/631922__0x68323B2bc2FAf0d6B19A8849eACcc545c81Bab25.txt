@@ -1,0 +1,16 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - proposals(uint256 _param1)
+#  - executeProposal(uint256 _proposalNumber)
+#  - newProposal(address _param1, uint256 _param2, bytes32 _param3, string _param4)
+#  - debatingPeriod()
+#  - numProposals()
+#  - kill()
+#  - founder()
+#  - vote(uint256 _param1, int256 _param2)
+#  - minimumQuorum()
+#  - unknownfd46146a(?)
+#  - _fallback()
+#  All the rest is below.
+#

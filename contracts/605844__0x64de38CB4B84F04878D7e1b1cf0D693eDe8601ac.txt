@@ -1,0 +1,10 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - isEnd()
+#  - submissions(uint256 _param1)
+#  - unknownd39fdce7(?)
+#  - unknownd53b9293(?)
+#  - _fallback()
+#  All the rest is below.
+#

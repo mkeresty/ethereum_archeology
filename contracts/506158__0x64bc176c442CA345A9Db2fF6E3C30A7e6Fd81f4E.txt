@@ -1,0 +1,18 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown08f13f8f(?)
+#  - setOwner(address _new)
+#  - unknown25f70344(?)
+#  - deadline()
+#  - beneficiary()
+#  - checkGoal()
+#  - fundingGoal()
+#  - amountRaised()
+#  - rebalance()
+#  - unknown851b806f(?)
+#  - owner()
+#  - redeem()
+#  - _fallback()
+#  All the rest is below.
+#

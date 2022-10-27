@@ -1,0 +1,7 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - parseInt(string _a, uint256 _b)
+#  - _fallback()
+#  All the rest is below.
+#

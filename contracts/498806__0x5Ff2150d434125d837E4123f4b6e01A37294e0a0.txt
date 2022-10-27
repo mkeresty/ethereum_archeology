@@ -1,0 +1,16 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - adminUnregister(string _param1)
+#  - getNumberOfAccounts()
+#  - unknown327c285e(?)
+#  - unknown4f2c0aec(?)
+#  - unknown8a3e6c1c(?)
+#  - addressOfName(string _param1)
+#  - unknownb08fec62(?)
+#  - getFee()
+#  - unregister()
+#  - register(string _eos_account_name)
+#  - _fallback()
+#  All the rest is below.
+#

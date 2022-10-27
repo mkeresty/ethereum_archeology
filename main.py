@@ -22,6 +22,8 @@ infura_url2 = 'https://mainnet.infura.io/v3/5b26585dfc17437da190dd2117648295'
 
 infura_url3 = 'https://mainnet.infura.io/v3/f5f59da316084e02a53b9c8a43692a98'
 
+infura_url4 = 'https://mainnet.infura.io/v3/f7040f89a0ef4518a48d9560acc1554f'
+
 alchemy_url ='https://eth-mainnet.g.alchemy.com/v2/40bu8-QDPtLw9E-1ssOo53usHCymWIUs'
 
 quicknode_url = 'https://greatest-crimson-field.discover.quiknode.pro/f101cacb7fc78888b1875ff05085724d569285bf/'
@@ -152,11 +154,15 @@ def decompile_contract(bytecode, contract_address, block):
 
 
 def loop_blocks():
-    for i in range(444371, 450000):
+    for i in range(3500000, 3750000):
         get_tx_block(i)
         print('Analyzing block # ', i)
         #time.sleep(.1)
 
 
 loop_blocks()
+
+# x = raw_receipt = web3.eth.get_transaction('0x4cd0ad5f5812f67083e90c22376bff3533ce04a43305ab10db2cfb6664383903')
+
+# print(x)
 

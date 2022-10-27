@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - kill()
+#  - parseAddr(string _a)
+#  - test()
+#  - _fallback()
+#  All the rest is below.
+#

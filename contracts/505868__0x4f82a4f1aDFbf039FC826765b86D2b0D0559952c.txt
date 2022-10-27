@@ -1,0 +1,12 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - setOwner(address _new)
+#  - unknown24b76fd5(?)
+#  - balanceOf(address _owner)
+#  - owner()
+#  - transfer(address _to, uint256 _value)
+#  - tokens(address _param1)
+#  - _fallback()
+#  All the rest is below.
+#

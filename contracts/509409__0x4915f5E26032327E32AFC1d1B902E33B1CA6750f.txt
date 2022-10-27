@@ -1,0 +1,14 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown3bffe0a3(?)
+#  - unknown599ebffb(?)
+#  - wave()
+#  - unknown8d1eca9f(?)
+#  - unknown920dc905(?)
+#  - unknown9c3a4973(?)
+#  - remove()
+#  - unknownb65c531b(?)
+#  - _fallback()
+#  All the rest is below.
+#

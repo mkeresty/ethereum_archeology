@@ -1,0 +1,7 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - build_creature()
+#  - _fallback()
+#  All the rest is below.
+#

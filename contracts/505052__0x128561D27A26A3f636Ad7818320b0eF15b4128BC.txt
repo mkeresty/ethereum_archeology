@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - ping()
+#  - unknownaf8473a8(?)
+#  - reset()
+#  - _fallback()
+#  All the rest is below.
+#

@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - kill()
+#  - unknown6a67498e(?)
+#  - oraclize_setProof(bytes1 _proofP)
+#  - _fallback()
+#  All the rest is below.
+#

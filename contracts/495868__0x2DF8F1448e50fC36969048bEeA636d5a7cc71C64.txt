@@ -1,0 +1,12 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - name()
+#  - decimals()
+#  - unknown4ad2b972(?)
+#  - balanceOf(address _owner)
+#  - symbol()
+#  - transfer(address _to, uint256 _value)
+#  - _fallback()
+#  All the rest is below.
+#

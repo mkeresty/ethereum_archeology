@@ -1,0 +1,9 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown87416c81(?)
+#  - check(string _param1)
+#  - register(string _eos_account_name)
+#  - _fallback()
+#  All the rest is below.
+#

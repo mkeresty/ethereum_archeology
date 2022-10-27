@@ -1,0 +1,12 @@
+# Palkeoramix decompiler. 
+#
+#  I failed with these: 
+#  - unknown08c2e0bb(?)
+#  - kill()
+#  - update()
+#  - __callback(bytes32 _param1, string _param2, string _param3)
+#  - ETHXBT()
+#  - oraclize_setProof(bytes1 _proofP)
+#  - _fallback()
+#  All the rest is below.
+#

@@ -16,7 +16,7 @@ import panoramix
 import re
 
 
-infura_url = 'https://mainnet.infura.io/v3/6c2bea31c3094dee8d7c92c5710d5485'
+infura_url = ''
 
 web3 = Web3(Web3.HTTPProvider(infura_url))
 

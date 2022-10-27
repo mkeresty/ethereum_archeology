@@ -16,7 +16,7 @@ import panoramix
 import re
 
 
-infura_url = ''
+infura_url = '  '
 
 infura_url2 = ''
 
